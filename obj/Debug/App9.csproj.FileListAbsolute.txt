@@ -1,0 +1,185 @@
+E:\Manipal\App9\App9\obj\Debug\App.g.i.cs
+E:\Manipal\App9\App9\obj\Debug\App.g.cs
+E:\Manipal\App9\App9\obj\Debug\BasicPage1.g.i.cs
+E:\Manipal\App9\App9\obj\Debug\BasicPage1.g.cs
+E:\Manipal\App9\App9\obj\Debug\Common\StandardStyles.g.i.cs
+E:\Manipal\App9\App9\obj\Debug\Common\StandardStyles.g.cs
+E:\Manipal\App9\App9\obj\Debug\MainPage.g.i.cs
+E:\Manipal\App9\App9\obj\Debug\MainPage.g.cs
+E:\Manipal\App9\App9\obj\Debug\XamlTypeInfo.g.cs
+E:\Manipal\App9\App9\obj\Debug\App.xaml
+E:\Manipal\App9\App9\obj\Debug\BasicPage1.xaml
+E:\Manipal\App9\App9\obj\Debug\Common\StandardStyles.xaml
+E:\Manipal\App9\App9\obj\Debug\MainPage.xaml
+E:\Manipal\App9\App9\bin\Debug\App9.exe
+E:\Manipal\App9\App9\bin\Debug\App9.pdb
+E:\Manipal\App9\App9\bin\Debug\resources.pri
+E:\Manipal\App9\App9\bin\Debug\AppxManifest.xml
+E:\Manipal\App9\App9\bin\Debug\App9.build.appxrecipe
+E:\Manipal\App9\App9\obj\Debug\BasicPage2.g.i.cs
+E:\Manipal\App9\App9\obj\Debug\BasicPage2.g.cs
+E:\Manipal\App9\App9\obj\Debug\BasicPage3.g.i.cs
+E:\Manipal\App9\App9\obj\Debug\BasicPage3.g.cs
+E:\Manipal\App9\App9\obj\Debug\BasicPage4.g.i.cs
+E:\Manipal\App9\App9\obj\Debug\BasicPage4.g.cs
+E:\Manipal\App9\App9\obj\Debug\BasicPage5.g.i.cs
+E:\Manipal\App9\App9\obj\Debug\BasicPage5.g.cs
+E:\Manipal\App9\App9\obj\Debug\BasicPage6.g.i.cs
+E:\Manipal\App9\App9\obj\Debug\BasicPage6.g.cs
+E:\Manipal\App9\App9\obj\Debug\BasicPage2.xaml
+E:\Manipal\App9\App9\obj\Debug\BasicPage3.xaml
+E:\Manipal\App9\App9\obj\Debug\BasicPage4.xaml
+E:\Manipal\App9\App9\obj\Debug\BasicPage5.xaml
+E:\Manipal\App9\App9\obj\Debug\BasicPage6.xaml
+E:\Manipal\App9\App9\obj\Debug\App9.exe
+E:\Manipal\App9\App9\obj\Debug\App9.pdb
+E:\Manipal\App9\App9\obj\Debug\priconfig.xml
+E:\Manipal\App9\App9\obj\Debug\layout.resfiles
+E:\Manipal\App9\App9\obj\Debug\resources.resfiles
+E:\Manipal\App9\App9\obj\Debug\pri.resfiles
+E:\Manipal\App9\App9\obj\Debug\LanguageQualifiers.txt
+E:\Manipal\App9\App9\obj\Debug\ProjectArchitectures.txt
+E:\Windows 8 My Samples\W8 App Layout\App9\App9\bin\Debug\App9.exe
+E:\Windows 8 My Samples\W8 App Layout\App9\App9\bin\Debug\App9.pdb
+E:\Windows 8 My Samples\W8 App Layout\App9\App9\bin\Debug\resources.pri
+E:\Windows 8 My Samples\W8 App Layout\App9\App9\bin\Debug\AppxManifest.xml
+E:\Windows 8 My Samples\W8 App Layout\App9\App9\bin\Debug\App9.build.appxrecipe
+E:\Windows 8 My Samples\W8 App Layout\App9\App9\obj\Debug\App.g.i.cs
+E:\Windows 8 My Samples\W8 App Layout\App9\App9\obj\Debug\App.g.cs
+E:\Windows 8 My Samples\W8 App Layout\App9\App9\obj\Debug\BasicPage1.g.i.cs
+E:\Windows 8 My Samples\W8 App Layout\App9\App9\obj\Debug\BasicPage1.g.cs
+E:\Windows 8 My Samples\W8 App Layout\App9\App9\obj\Debug\BasicPage2.g.i.cs
+E:\Windows 8 My Samples\W8 App Layout\App9\App9\obj\Debug\BasicPage2.g.cs
+E:\Windows 8 My Samples\W8 App Layout\App9\App9\obj\Debug\BasicPage3.g.i.cs
+E:\Windows 8 My Samples\W8 App Layout\App9\App9\obj\Debug\BasicPage3.g.cs
+E:\Windows 8 My Samples\W8 App Layout\App9\App9\obj\Debug\BasicPage4.g.i.cs
+E:\Windows 8 My Samples\W8 App Layout\App9\App9\obj\Debug\BasicPage4.g.cs
+E:\Windows 8 My Samples\W8 App Layout\App9\App9\obj\Debug\BasicPage5.g.i.cs
+E:\Windows 8 My Samples\W8 App Layout\App9\App9\obj\Debug\BasicPage5.g.cs
+E:\Windows 8 My Samples\W8 App Layout\App9\App9\obj\Debug\BasicPage6.g.i.cs
+E:\Windows 8 My Samples\W8 App Layout\App9\App9\obj\Debug\BasicPage6.g.cs
+E:\Windows 8 My Samples\W8 App Layout\App9\App9\obj\Debug\Common\StandardStyles.g.i.cs
+E:\Windows 8 My Samples\W8 App Layout\App9\App9\obj\Debug\Common\StandardStyles.g.cs
+E:\Windows 8 My Samples\W8 App Layout\App9\App9\obj\Debug\MainPage.g.i.cs
+E:\Windows 8 My Samples\W8 App Layout\App9\App9\obj\Debug\MainPage.g.cs
+E:\Windows 8 My Samples\W8 App Layout\App9\App9\obj\Debug\XamlTypeInfo.g.cs
+E:\Windows 8 My Samples\W8 App Layout\App9\App9\obj\Debug\App.xaml
+E:\Windows 8 My Samples\W8 App Layout\App9\App9\obj\Debug\BasicPage1.xaml
+E:\Windows 8 My Samples\W8 App Layout\App9\App9\obj\Debug\BasicPage2.xaml
+E:\Windows 8 My Samples\W8 App Layout\App9\App9\obj\Debug\BasicPage3.xaml
+E:\Windows 8 My Samples\W8 App Layout\App9\App9\obj\Debug\BasicPage4.xaml
+E:\Windows 8 My Samples\W8 App Layout\App9\App9\obj\Debug\BasicPage5.xaml
+E:\Windows 8 My Samples\W8 App Layout\App9\App9\obj\Debug\BasicPage6.xaml
+E:\Windows 8 My Samples\W8 App Layout\App9\App9\obj\Debug\Common\StandardStyles.xaml
+E:\Windows 8 My Samples\W8 App Layout\App9\App9\obj\Debug\MainPage.xaml
+E:\Windows 8 My Samples\W8 App Layout\App9\App9\obj\Debug\App9.exe
+E:\Windows 8 My Samples\W8 App Layout\App9\App9\obj\Debug\App9.pdb
+E:\Windows 8 My Samples\W8 App Layout\App9\App9\obj\Debug\priconfig.xml
+E:\Windows 8 My Samples\W8 App Layout\App9\App9\obj\Debug\layout.resfiles
+E:\Windows 8 My Samples\W8 App Layout\App9\App9\obj\Debug\resources.resfiles
+E:\Windows 8 My Samples\W8 App Layout\App9\App9\obj\Debug\pri.resfiles
+E:\Windows 8 My Samples\W8 App Layout\App9\App9\obj\Debug\LanguageQualifiers.txt
+E:\Windows 8 My Samples\W8 App Layout\App9\App9\obj\Debug\ProjectArchitectures.txt
+F:\EdVantageGurgaon\W8 App Layout\App9\App9\bin\Debug\App9.exe
+F:\EdVantageGurgaon\W8 App Layout\App9\App9\bin\Debug\App9.pdb
+F:\EdVantageGurgaon\W8 App Layout\App9\App9\bin\Debug\resources.pri
+F:\EdVantageGurgaon\W8 App Layout\App9\App9\bin\Debug\AppxManifest.xml
+F:\EdVantageGurgaon\W8 App Layout\App9\App9\bin\Debug\App9.build.appxrecipe
+F:\EdVantageGurgaon\W8 App Layout\App9\App9\obj\Debug\App.g.i.cs
+F:\EdVantageGurgaon\W8 App Layout\App9\App9\obj\Debug\App.g.cs
+F:\EdVantageGurgaon\W8 App Layout\App9\App9\obj\Debug\BasicPage1.g.i.cs
+F:\EdVantageGurgaon\W8 App Layout\App9\App9\obj\Debug\BasicPage1.g.cs
+F:\EdVantageGurgaon\W8 App Layout\App9\App9\obj\Debug\BasicPage2.g.i.cs
+F:\EdVantageGurgaon\W8 App Layout\App9\App9\obj\Debug\BasicPage2.g.cs
+F:\EdVantageGurgaon\W8 App Layout\App9\App9\obj\Debug\BasicPage3.g.i.cs
+F:\EdVantageGurgaon\W8 App Layout\App9\App9\obj\Debug\BasicPage3.g.cs
+F:\EdVantageGurgaon\W8 App Layout\App9\App9\obj\Debug\BasicPage4.g.i.cs
+F:\EdVantageGurgaon\W8 App Layout\App9\App9\obj\Debug\BasicPage4.g.cs
+F:\EdVantageGurgaon\W8 App Layout\App9\App9\obj\Debug\BasicPage5.g.i.cs
+F:\EdVantageGurgaon\W8 App Layout\App9\App9\obj\Debug\BasicPage5.g.cs
+F:\EdVantageGurgaon\W8 App Layout\App9\App9\obj\Debug\BasicPage6.g.i.cs
+F:\EdVantageGurgaon\W8 App Layout\App9\App9\obj\Debug\BasicPage6.g.cs
+F:\EdVantageGurgaon\W8 App Layout\App9\App9\obj\Debug\Common\StandardStyles.g.i.cs
+F:\EdVantageGurgaon\W8 App Layout\App9\App9\obj\Debug\Common\StandardStyles.g.cs
+F:\EdVantageGurgaon\W8 App Layout\App9\App9\obj\Debug\MainPage.g.i.cs
+F:\EdVantageGurgaon\W8 App Layout\App9\App9\obj\Debug\MainPage.g.cs
+F:\EdVantageGurgaon\W8 App Layout\App9\App9\obj\Debug\XamlTypeInfo.g.cs
+F:\EdVantageGurgaon\W8 App Layout\App9\App9\obj\Debug\App.xaml
+F:\EdVantageGurgaon\W8 App Layout\App9\App9\obj\Debug\BasicPage1.xaml
+F:\EdVantageGurgaon\W8 App Layout\App9\App9\obj\Debug\BasicPage2.xaml
+F:\EdVantageGurgaon\W8 App Layout\App9\App9\obj\Debug\BasicPage3.xaml
+F:\EdVantageGurgaon\W8 App Layout\App9\App9\obj\Debug\BasicPage4.xaml
+F:\EdVantageGurgaon\W8 App Layout\App9\App9\obj\Debug\BasicPage5.xaml
+F:\EdVantageGurgaon\W8 App Layout\App9\App9\obj\Debug\BasicPage6.xaml
+F:\EdVantageGurgaon\W8 App Layout\App9\App9\obj\Debug\Common\StandardStyles.xaml
+F:\EdVantageGurgaon\W8 App Layout\App9\App9\obj\Debug\MainPage.xaml
+F:\EdVantageGurgaon\W8 App Layout\App9\App9\obj\Debug\App9.exe
+F:\EdVantageGurgaon\W8 App Layout\App9\App9\obj\Debug\App9.pdb
+F:\EdVantageGurgaon\W8 App Layout\App9\App9\obj\Debug\priconfig.xml
+F:\EdVantageGurgaon\W8 App Layout\App9\App9\obj\Debug\layout.resfiles
+F:\EdVantageGurgaon\W8 App Layout\App9\App9\obj\Debug\resources.resfiles
+F:\EdVantageGurgaon\W8 App Layout\App9\App9\obj\Debug\pri.resfiles
+F:\EdVantageGurgaon\W8 App Layout\App9\App9\obj\Debug\LanguageQualifiers.txt
+F:\EdVantageGurgaon\W8 App Layout\App9\App9\obj\Debug\ProjectArchitectures.txt
+C:\Users\ARPIT\Downloads\EdVantageTrainingMaterial\EdVantageTrainingMaterial\W8 App Layout\App9\App9\bin\Debug\App9.exe
+C:\Users\ARPIT\Downloads\EdVantageTrainingMaterial\EdVantageTrainingMaterial\W8 App Layout\App9\App9\bin\Debug\App9.pdb
+C:\Users\ARPIT\Downloads\EdVantageTrainingMaterial\EdVantageTrainingMaterial\W8 App Layout\App9\App9\bin\Debug\resources.pri
+C:\Users\ARPIT\Downloads\EdVantageTrainingMaterial\EdVantageTrainingMaterial\W8 App Layout\App9\App9\bin\Debug\AppxManifest.xml
+C:\Users\ARPIT\Downloads\EdVantageTrainingMaterial\EdVantageTrainingMaterial\W8 App Layout\App9\App9\bin\Debug\App9.build.appxrecipe
+C:\Users\ARPIT\Downloads\EdVantageTrainingMaterial\EdVantageTrainingMaterial\W8 App Layout\App9\App9\obj\Debug\App.g.i.cs
+C:\Users\ARPIT\Downloads\EdVantageTrainingMaterial\EdVantageTrainingMaterial\W8 App Layout\App9\App9\obj\Debug\App.g.cs
+C:\Users\ARPIT\Downloads\EdVantageTrainingMaterial\EdVantageTrainingMaterial\W8 App Layout\App9\App9\obj\Debug\BasicPage1.g.i.cs
+C:\Users\ARPIT\Downloads\EdVantageTrainingMaterial\EdVantageTrainingMaterial\W8 App Layout\App9\App9\obj\Debug\BasicPage1.g.cs
+C:\Users\ARPIT\Downloads\EdVantageTrainingMaterial\EdVantageTrainingMaterial\W8 App Layout\App9\App9\obj\Debug\BasicPage2.g.i.cs
+C:\Users\ARPIT\Downloads\EdVantageTrainingMaterial\EdVantageTrainingMaterial\W8 App Layout\App9\App9\obj\Debug\BasicPage2.g.cs
+C:\Users\ARPIT\Downloads\EdVantageTrainingMaterial\EdVantageTrainingMaterial\W8 App Layout\App9\App9\obj\Debug\BasicPage3.g.i.cs
+C:\Users\ARPIT\Downloads\EdVantageTrainingMaterial\EdVantageTrainingMaterial\W8 App Layout\App9\App9\obj\Debug\BasicPage3.g.cs
+C:\Users\ARPIT\Downloads\EdVantageTrainingMaterial\EdVantageTrainingMaterial\W8 App Layout\App9\App9\obj\Debug\BasicPage4.g.i.cs
+C:\Users\ARPIT\Downloads\EdVantageTrainingMaterial\EdVantageTrainingMaterial\W8 App Layout\App9\App9\obj\Debug\BasicPage4.g.cs
+C:\Users\ARPIT\Downloads\EdVantageTrainingMaterial\EdVantageTrainingMaterial\W8 App Layout\App9\App9\obj\Debug\BasicPage5.g.i.cs
+C:\Users\ARPIT\Downloads\EdVantageTrainingMaterial\EdVantageTrainingMaterial\W8 App Layout\App9\App9\obj\Debug\BasicPage5.g.cs
+C:\Users\ARPIT\Downloads\EdVantageTrainingMaterial\EdVantageTrainingMaterial\W8 App Layout\App9\App9\obj\Debug\BasicPage6.g.i.cs
+C:\Users\ARPIT\Downloads\EdVantageTrainingMaterial\EdVantageTrainingMaterial\W8 App Layout\App9\App9\obj\Debug\BasicPage6.g.cs
+C:\Users\ARPIT\Downloads\EdVantageTrainingMaterial\EdVantageTrainingMaterial\W8 App Layout\App9\App9\obj\Debug\Common\StandardStyles.g.i.cs
+C:\Users\ARPIT\Downloads\EdVantageTrainingMaterial\EdVantageTrainingMaterial\W8 App Layout\App9\App9\obj\Debug\Common\StandardStyles.g.cs
+C:\Users\ARPIT\Downloads\EdVantageTrainingMaterial\EdVantageTrainingMaterial\W8 App Layout\App9\App9\obj\Debug\MainPage.g.i.cs
+C:\Users\ARPIT\Downloads\EdVantageTrainingMaterial\EdVantageTrainingMaterial\W8 App Layout\App9\App9\obj\Debug\MainPage.g.cs
+C:\Users\ARPIT\Downloads\EdVantageTrainingMaterial\EdVantageTrainingMaterial\W8 App Layout\App9\App9\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\ARPIT\Downloads\EdVantageTrainingMaterial\EdVantageTrainingMaterial\W8 App Layout\App9\App9\obj\Debug\App.xaml
+C:\Users\ARPIT\Downloads\EdVantageTrainingMaterial\EdVantageTrainingMaterial\W8 App Layout\App9\App9\obj\Debug\BasicPage1.xaml
+C:\Users\ARPIT\Downloads\EdVantageTrainingMaterial\EdVantageTrainingMaterial\W8 App Layout\App9\App9\obj\Debug\BasicPage2.xaml
+C:\Users\ARPIT\Downloads\EdVantageTrainingMaterial\EdVantageTrainingMaterial\W8 App Layout\App9\App9\obj\Debug\BasicPage3.xaml
+C:\Users\ARPIT\Downloads\EdVantageTrainingMaterial\EdVantageTrainingMaterial\W8 App Layout\App9\App9\obj\Debug\BasicPage4.xaml
+C:\Users\ARPIT\Downloads\EdVantageTrainingMaterial\EdVantageTrainingMaterial\W8 App Layout\App9\App9\obj\Debug\BasicPage5.xaml
+C:\Users\ARPIT\Downloads\EdVantageTrainingMaterial\EdVantageTrainingMaterial\W8 App Layout\App9\App9\obj\Debug\BasicPage6.xaml
+C:\Users\ARPIT\Downloads\EdVantageTrainingMaterial\EdVantageTrainingMaterial\W8 App Layout\App9\App9\obj\Debug\Common\StandardStyles.xaml
+C:\Users\ARPIT\Downloads\EdVantageTrainingMaterial\EdVantageTrainingMaterial\W8 App Layout\App9\App9\obj\Debug\MainPage.xaml
+C:\Users\ARPIT\Downloads\EdVantageTrainingMaterial\EdVantageTrainingMaterial\W8 App Layout\App9\App9\obj\Debug\App9.exe
+C:\Users\ARPIT\Downloads\EdVantageTrainingMaterial\EdVantageTrainingMaterial\W8 App Layout\App9\App9\obj\Debug\App9.pdb
+C:\Users\ARPIT\Downloads\EdVantageTrainingMaterial\EdVantageTrainingMaterial\W8 App Layout\App9\App9\obj\Debug\priconfig.xml
+C:\Users\ARPIT\Downloads\EdVantageTrainingMaterial\EdVantageTrainingMaterial\W8 App Layout\App9\App9\obj\Debug\priconfig.xml.intermediate
+C:\Users\ARPIT\Downloads\EdVantageTrainingMaterial\EdVantageTrainingMaterial\W8 App Layout\App9\App9\obj\Debug\layout.resfiles
+C:\Users\ARPIT\Downloads\EdVantageTrainingMaterial\EdVantageTrainingMaterial\W8 App Layout\App9\App9\obj\Debug\layout.resfiles.intermediate
+C:\Users\ARPIT\Downloads\EdVantageTrainingMaterial\EdVantageTrainingMaterial\W8 App Layout\App9\App9\obj\Debug\resources.resfiles
+C:\Users\ARPIT\Downloads\EdVantageTrainingMaterial\EdVantageTrainingMaterial\W8 App Layout\App9\App9\obj\Debug\resources.resfiles.intermediate
+C:\Users\ARPIT\Downloads\EdVantageTrainingMaterial\EdVantageTrainingMaterial\W8 App Layout\App9\App9\obj\Debug\pri.resfiles
+C:\Users\ARPIT\Downloads\EdVantageTrainingMaterial\EdVantageTrainingMaterial\W8 App Layout\App9\App9\obj\Debug\pri.resfiles.intermediate
+C:\Users\ARPIT\Downloads\EdVantageTrainingMaterial\EdVantageTrainingMaterial\W8 App Layout\App9\App9\obj\Debug\qualifiers.txt
+C:\Users\ARPIT\Downloads\EdVantageTrainingMaterial\EdVantageTrainingMaterial\W8 App Layout\App9\App9\obj\Debug\qualifiers.txt.intermediate
+C:\Users\ARPIT\Downloads\EdVantageTrainingMaterial\EdVantageTrainingMaterial\W8 App Layout\App9\App9\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\ARPIT\Downloads\EdVantageTrainingMaterial\EdVantageTrainingMaterial\W8 App Layout\App9\App9\obj\Debug\ProjectArchitectures.txt
+C:\Users\ARPIT\Downloads\EdVantageTrainingMaterial\EdVantageTrainingMaterial\W8 App Layout\App9\App9\obj\Debug\BlankPage3.g.i.cs
+C:\Users\ARPIT\Downloads\EdVantageTrainingMaterial\EdVantageTrainingMaterial\W8 App Layout\App9\App9\obj\Debug\BlankPage3.g.cs
+C:\Users\ARPIT\Downloads\EdVantageTrainingMaterial\EdVantageTrainingMaterial\W8 App Layout\App9\App9\obj\Debug\BlankPage5.g.i.cs
+C:\Users\ARPIT\Downloads\EdVantageTrainingMaterial\EdVantageTrainingMaterial\W8 App Layout\App9\App9\obj\Debug\BlankPage5.g.cs
+C:\Users\ARPIT\Downloads\EdVantageTrainingMaterial\EdVantageTrainingMaterial\W8 App Layout\App9\App9\obj\Debug\BlankPage6.g.i.cs
+C:\Users\ARPIT\Downloads\EdVantageTrainingMaterial\EdVantageTrainingMaterial\W8 App Layout\App9\App9\obj\Debug\BlankPage6.g.cs
+C:\Users\ARPIT\Downloads\EdVantageTrainingMaterial\EdVantageTrainingMaterial\W8 App Layout\App9\App9\obj\Debug\BlankPage3.xaml
+C:\Users\ARPIT\Downloads\EdVantageTrainingMaterial\EdVantageTrainingMaterial\W8 App Layout\App9\App9\obj\Debug\BlankPage6.xaml
+C:\Users\ARPIT\Downloads\EdVantageTrainingMaterial\EdVantageTrainingMaterial\W8 App Layout\App9\App9\obj\Debug\BlankPage7.g.i.cs
+C:\Users\ARPIT\Downloads\EdVantageTrainingMaterial\EdVantageTrainingMaterial\W8 App Layout\App9\App9\obj\Debug\BlankPage7.g.cs
+C:\Users\ARPIT\Downloads\EdVantageTrainingMaterial\EdVantageTrainingMaterial\W8 App Layout\App9\App9\obj\Debug\BlankPage7.xaml
+C:\Users\ARPIT\Downloads\EdVantageTrainingMaterial\EdVantageTrainingMaterial\W8 App Layout\App9\App9\obj\Debug\BlankPage5.xaml
+C:\Users\ARPIT\Downloads\EdVantageTrainingMaterial\EdVantageTrainingMaterial\W8 App Layout\App9\App9\obj\Debug\BlankPage1.g.i.cs
+C:\Users\ARPIT\Downloads\EdVantageTrainingMaterial\EdVantageTrainingMaterial\W8 App Layout\App9\App9\obj\Debug\BlankPage1.g.cs
+C:\Users\ARPIT\Downloads\EdVantageTrainingMaterial\EdVantageTrainingMaterial\W8 App Layout\App9\App9\obj\Debug\BlankPage1.xaml

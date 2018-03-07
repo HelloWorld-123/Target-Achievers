@@ -1,0 +1,32 @@
+﻿<Page
+    x:Class="App15.BlankPage7"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:App15"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <Grid Background="#FFFFEFA8">
+        <Image HorizontalAlignment="Left" Height="337" Margin="532,63,0,0" VerticalAlignment="Top" Width="462" Source="Assets/target-logo-Recovered.png"/>
+        <TextBlock HorizontalAlignment="Left" Height="178" Margin="199,483,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="965" Foreground="Black">
+        	<Run FontSize="36" FontFamily="Comic Sans MS" Text="Thank you for participating"/>
+        	<Run FontSize="36" Text="............."/>
+        	<LineBreak/>
+        	<Run/>
+        	<LineBreak/>
+        	<Run/>
+        	<LineBreak/>
+        	<Run/>
+        	<LineBreak/>
+        	<Run/>
+        	<LineBreak/>
+        	<Run/>
+        	<LineBreak/>
+        	<Run FontSize="36" FontFamily="Curlz MT" Text="&#x9;&#x9;&#x9;&#x9;&#x9;Go0d Luck for your future"/>
+        	<Run FontSize="36" Text=".......  "/>
+        </TextBlock>
+        <TextBlock x:Name="bk" HorizontalAlignment="Left" Margin="1076,431,0,0" TextWrapping="Wrap" Text="Main Page" VerticalAlignment="Top" Height="52" Width="157" Foreground="#FFE22727" FontFamily="Adobe Song Std L" FontSize="22" Tapped="bk_Tapped"/>
+
+    </Grid>
+</Page>

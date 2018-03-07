@@ -1,0 +1,150 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>ARPIT</Machine>
+    <WindowsUser>ARPIT</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>9e2d646f-0c9c-4897-893a-5a88431de3bb</PackageIdentityName>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\ARPIT\Downloads\EdVantageTrainingMaterial\EdVantageTrainingMaterial\W8 App Layout\App9\App9\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\ARPIT\Downloads\EdVantageTrainingMaterial\EdVantageTrainingMaterial\W8 App Layout\App9\App9\bin\Debug\App9.exe">
+      <PackagePath>App9.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ARPIT\Downloads\EdVantageTrainingMaterial\EdVantageTrainingMaterial\W8 App Layout\App9\App9\Assets\2013106-5102364-9290-not.png">
+      <PackagePath>Assets\2013106-5102364-9290-not.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ARPIT\Downloads\EdVantageTrainingMaterial\EdVantageTrainingMaterial\W8 App Layout\App9\App9\Assets\agt_announcements.png">
+      <PackagePath>Assets\agt_announcements.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ARPIT\Downloads\EdVantageTrainingMaterial\EdVantageTrainingMaterial\W8 App Layout\App9\App9\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ARPIT\Downloads\EdVantageTrainingMaterial\EdVantageTrainingMaterial\W8 App Layout\App9\App9\Assets\pinicon-13796978738ng4k.png">
+      <PackagePath>Assets\pinicon-13796978738ng4k.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ARPIT\Downloads\EdVantageTrainingMaterial\EdVantageTrainingMaterial\W8 App Layout\App9\App9\Assets\SmallLogo.png">
+      <PackagePath>Assets\SmallLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ARPIT\Downloads\EdVantageTrainingMaterial\EdVantageTrainingMaterial\W8 App Layout\App9\App9\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ARPIT\Downloads\EdVantageTrainingMaterial\EdVantageTrainingMaterial\W8 App Layout\App9\App9\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ARPIT\Downloads\EdVantageTrainingMaterial\EdVantageTrainingMaterial\W8 App Layout\App9\App9\Assets\target-logo-Recovered.png">
+      <PackagePath>Assets\target-logo-Recovered.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ARPIT\Downloads\EdVantageTrainingMaterial\EdVantageTrainingMaterial\W8 App Layout\App9\App9\Assets\Untitled-1-Recovered.png">
+      <PackagePath>Assets\Untitled-1-Recovered.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ARPIT\Downloads\EdVantageTrainingMaterial\EdVantageTrainingMaterial\W8 App Layout\App9\App9\Assets\article_42707_5772.jpg">
+      <PackagePath>Assets\article_42707_5772.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ARPIT\Downloads\EdVantageTrainingMaterial\EdVantageTrainingMaterial\W8 App Layout\App9\App9\Assets\Black-background-set-wood-on-chanconsultants-jpg.jpg">
+      <PackagePath>Assets\Black-background-set-wood-on-chanconsultants-jpg.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ARPIT\Downloads\EdVantageTrainingMaterial\EdVantageTrainingMaterial\W8 App Layout\App9\App9\Assets\coaching1.jpg">
+      <PackagePath>Assets\coaching1.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ARPIT\Downloads\EdVantageTrainingMaterial\EdVantageTrainingMaterial\W8 App Layout\App9\App9\Assets\download %281%29.jpg">
+      <PackagePath>Assets\download %281%29.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ARPIT\Downloads\EdVantageTrainingMaterial\EdVantageTrainingMaterial\W8 App Layout\App9\App9\Assets\download.jpg">
+      <PackagePath>Assets\download.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ARPIT\Downloads\EdVantageTrainingMaterial\EdVantageTrainingMaterial\W8 App Layout\App9\App9\Assets\fiitjee-logo.jpg">
+      <PackagePath>Assets\fiitjee-logo.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ARPIT\Downloads\EdVantageTrainingMaterial\EdVantageTrainingMaterial\W8 App Layout\App9\App9\Assets\helpful_tips.jpg">
+      <PackagePath>Assets\helpful_tips.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ARPIT\Downloads\EdVantageTrainingMaterial\EdVantageTrainingMaterial\W8 App Layout\App9\App9\Assets\IIT Kharagpur_4C--621x414.jpg">
+      <PackagePath>Assets\IIT Kharagpur_4C--621x414.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ARPIT\Downloads\EdVantageTrainingMaterial\EdVantageTrainingMaterial\W8 App Layout\App9\App9\Assets\images %281%29.jpg">
+      <PackagePath>Assets\images %281%29.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ARPIT\Downloads\EdVantageTrainingMaterial\EdVantageTrainingMaterial\W8 App Layout\App9\App9\Assets\images %282%29.jpg">
+      <PackagePath>Assets\images %282%29.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ARPIT\Downloads\EdVantageTrainingMaterial\EdVantageTrainingMaterial\W8 App Layout\App9\App9\Assets\images %284%29.jpg">
+      <PackagePath>Assets\images %284%29.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ARPIT\Downloads\EdVantageTrainingMaterial\EdVantageTrainingMaterial\W8 App Layout\App9\App9\Assets\images %285%29.jpg">
+      <PackagePath>Assets\images %285%29.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ARPIT\Downloads\EdVantageTrainingMaterial\EdVantageTrainingMaterial\W8 App Layout\App9\App9\Assets\images.jpg">
+      <PackagePath>Assets\images.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ARPIT\Downloads\EdVantageTrainingMaterial\EdVantageTrainingMaterial\W8 App Layout\App9\App9\Assets\JECRC Logo.jpg">
+      <PackagePath>Assets\JECRC Logo.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ARPIT\Downloads\EdVantageTrainingMaterial\EdVantageTrainingMaterial\W8 App Layout\App9\App9\Assets\Mathematical_equations.jpg">
+      <PackagePath>Assets\Mathematical_equations.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ARPIT\Downloads\EdVantageTrainingMaterial\EdVantageTrainingMaterial\W8 App Layout\App9\App9\Assets\Mathematics.jpg">
+      <PackagePath>Assets\Mathematics.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ARPIT\Downloads\EdVantageTrainingMaterial\EdVantageTrainingMaterial\W8 App Layout\App9\App9\Common\ReadMe.txt">
+      <PackagePath>Common\ReadMe.txt</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ARPIT\Downloads\EdVantageTrainingMaterial\EdVantageTrainingMaterial\W8 App Layout\App9\App9\bin\Debug\App.xaml">
+      <PackagePath>App.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ARPIT\Downloads\EdVantageTrainingMaterial\EdVantageTrainingMaterial\W8 App Layout\App9\App9\bin\Debug\BasicPage1.xaml">
+      <PackagePath>BasicPage1.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ARPIT\Downloads\EdVantageTrainingMaterial\EdVantageTrainingMaterial\W8 App Layout\App9\App9\bin\Debug\BasicPage2.xaml">
+      <PackagePath>BasicPage2.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ARPIT\Downloads\EdVantageTrainingMaterial\EdVantageTrainingMaterial\W8 App Layout\App9\App9\bin\Debug\BasicPage3.xaml">
+      <PackagePath>BasicPage3.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ARPIT\Downloads\EdVantageTrainingMaterial\EdVantageTrainingMaterial\W8 App Layout\App9\App9\bin\Debug\BasicPage4.xaml">
+      <PackagePath>BasicPage4.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ARPIT\Downloads\EdVantageTrainingMaterial\EdVantageTrainingMaterial\W8 App Layout\App9\App9\bin\Debug\BasicPage5.xaml">
+      <PackagePath>BasicPage5.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ARPIT\Downloads\EdVantageTrainingMaterial\EdVantageTrainingMaterial\W8 App Layout\App9\App9\bin\Debug\BasicPage6.xaml">
+      <PackagePath>BasicPage6.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ARPIT\Downloads\EdVantageTrainingMaterial\EdVantageTrainingMaterial\W8 App Layout\App9\App9\bin\Debug\BlankPage1.xaml">
+      <PackagePath>BlankPage1.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ARPIT\Downloads\EdVantageTrainingMaterial\EdVantageTrainingMaterial\W8 App Layout\App9\App9\bin\Debug\BlankPage3.xaml">
+      <PackagePath>BlankPage3.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ARPIT\Downloads\EdVantageTrainingMaterial\EdVantageTrainingMaterial\W8 App Layout\App9\App9\bin\Debug\BlankPage5.xaml">
+      <PackagePath>BlankPage5.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ARPIT\Downloads\EdVantageTrainingMaterial\EdVantageTrainingMaterial\W8 App Layout\App9\App9\bin\Debug\BlankPage6.xaml">
+      <PackagePath>BlankPage6.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ARPIT\Downloads\EdVantageTrainingMaterial\EdVantageTrainingMaterial\W8 App Layout\App9\App9\bin\Debug\BlankPage7.xaml">
+      <PackagePath>BlankPage7.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ARPIT\Downloads\EdVantageTrainingMaterial\EdVantageTrainingMaterial\W8 App Layout\App9\App9\bin\Debug\Common\StandardStyles.xaml">
+      <PackagePath>Common\StandardStyles.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ARPIT\Downloads\EdVantageTrainingMaterial\EdVantageTrainingMaterial\W8 App Layout\App9\App9\bin\Debug\MainPage.xaml">
+      <PackagePath>MainPage.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ARPIT\Downloads\EdVantageTrainingMaterial\EdVantageTrainingMaterial\W8 App Layout\App9\App9\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,123 @@
+﻿<common:LayoutAwarePage
+    x:Name="pageRoot"
+    x:Class="App9.BasicPage6"
+    DataContext="{Binding DefaultViewModel, RelativeSource={RelativeSource Self}}"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:App9"
+    xmlns:common="using:App9.Common"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <Page.Resources>
+
+        <!-- TODO: Delete this line if the key AppName is declared in App.xaml -->
+        <x:String x:Key="AppName">My Application</x:String>
+    </Page.Resources>
+
+    <!--
+        This grid acts as a root panel for the page that defines two rows:
+        * Row 0 contains the back button and page title
+        * Row 1 contains the rest of the page layout
+    -->
+    <Grid Style="{StaticResource LayoutRootStyle}">
+        <Grid.Background>
+            <ImageBrush Stretch="Fill" ImageSource="Assets/Black-background-set-wood-on-chanconsultants-jpg.jpg"/>
+        </Grid.Background>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="140"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <!-- Back button and page title -->
+        <Grid>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="Auto"/>
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+            <Button x:Name="backButton" Click="GoBack" IsEnabled="{Binding Frame.CanGoBack, ElementName=pageRoot}" Style="{StaticResource BackButtonStyle}"/>
+            <TextBlock x:Name="pageTitle" Grid.Column="1" Text="Target Achievers" Style="{StaticResource PageHeaderTextStyle}"/>
+        </Grid>
+        <Image HorizontalAlignment="Left" Height="250.812" Margin="59.377,177.549,0,0" Grid.Row="1" VerticalAlignment="Top" Width="361.703" RenderTransformOrigin="0.5,0.5" UseLayoutRounding="False" d:LayoutRounding="Auto" Source="Assets/IIT Kharagpur_4C--621x414.jpg">
+            <Image.RenderTransform>
+                <CompositeTransform Rotation="-8.28"/>
+            </Image.RenderTransform>
+        </Image>
+        <Image HorizontalAlignment="Left" Height="48" Margin="333,170,0,0" Grid.Row="1" VerticalAlignment="Top" Width="58" RenderTransformOrigin="-2.755,-2.327" Source="Assets/pinicon-13796978738ng4k.png"/>
+        <TextBlock HorizontalAlignment="Left" Margin="539,10,0,0" Grid.Row="1" TextWrapping="Wrap" VerticalAlignment="Top" Height="594" Width="767">
+        	<Run Foreground="#FFE65D0F" FontSize="24" Text="Top Six Rules for Selecting a College or University"/>
+        	<LineBreak/>
+        	<Span FontSize="18.6666666666667" FontFamily="Californian FB">
+        		<LineBreak/>
+        		<LineBreak/>
+        	</Span>
+        	<Run FontSize="18" Text="1. Never make your final college selection without visiting at least your top two or three choices. No matter how well you think you know a college or university, you can learn a lot (good or bad) by spending a few hours on campus, including whether or not the college feels like a good &quot;fit&quot; for you. Having family members accompany you on college visits is a great idea because it gives you extra &quot;eyes and ears&quot; and people with whom you can discuss your impressions. "/>
+        	<Span Foreground="Black" FontSize="18.6666666666667" FontFamily="Californian FB">
+        		<Run Foreground="White" FontSize="18"/>
+        		<LineBreak/>
+        		<LineBreak/>
+        	</Span>
+        	<Run FontSize="18" Text="2. There are no exceptions to rule #1. "/>
+        	<Span Foreground="Black" FontSize="18.6666666666667" FontFamily="Californian FB">
+        		<Run Foreground="White" FontSize="18"/>
+        		<LineBreak/>
+        		<LineBreak/>
+        	</Span>
+        	<Run FontSize="18" Text="3. A college is not necessarily right for you because its name is familiar. That might seem pretty obvious, but you wouldn't believe how many students equate educational quality with name recognition. "/>
+        	<Span Foreground="Black" FontSize="18.6666666666667" FontFamily="Californian FB">
+        		<Run Foreground="White" FontSize="18"/>
+        		<LineBreak/>
+        		<LineBreak/>
+        	</Span>
+        	<Run FontSize="18" Text="4. Investigate at least three or four colleges you know little or nothing about but offer the field(s) of study of interest to you, are appropriately selective for a students with your grades and SAT or ACT scores, and are located in geographic areas attractive to you. You have nothing to lose and you might make a great discovery. A little research and an open mind can greatly increase the odds that you make a good college choice. "/>
+        	<Span Foreground="Black" FontSize="18.6666666666667" FontFamily="Californian FB">
+        		<Run Foreground="White" FontSize="18"/>
+        		<LineBreak/>
+        		<LineBreak/>
+        	</Span>
+        	<Run FontSize="18" Text="5. There are very few worse reasons to select a college than because your friends are going there. Choosing a college because your girlfriend or boyfriend is headed there is one of them. In fact, if there is a worse reason to choose a college, it escapes us. "/>
+        	<Span Foreground="Black" FontSize="18.6666666666667" FontFamily="Californian FB">
+        		<Run Foreground="White" FontSize="18"/>
+        		<LineBreak/>
+        		<LineBreak/>
+        	</Span>
+        	<Run FontSize="18" Text="6. Investigate, investigate, investigate, and be sure to separate reality from (often baseless) opinions. Lots of folks will refer to a college as &quot;good&quot;, &quot;hard to get into&quot;, &quot;a party school&quot;, &quot;too expensive&quot;, etc. without really knowing the facts. Don't accept these kinds of generalizations without evidence. "/>
+        	<Span Foreground="Black" FontSize="18.6666666666667" FontFamily="Californian FB">
+        		<Run Foreground="White" FontSize="18"/>
+        		<LineBreak/>
+        		<LineBreak/>
+        	</Span>
+        </TextBlock>
+
+        <VisualStateManager.VisualStateGroups>
+
+            <!-- Visual states reflect the application's view state -->
+            <VisualStateGroup x:Name="ApplicationViewStates">
+                <VisualState x:Name="FullScreenLandscape"/>
+                <VisualState x:Name="Filled"/>
+
+                <!-- The entire page respects the narrower 100-pixel margin convention for portrait -->
+                <VisualState x:Name="FullScreenPortrait">
+                    <Storyboard>
+                        <ObjectAnimationUsingKeyFrames Storyboard.TargetName="backButton" Storyboard.TargetProperty="Style">
+                            <DiscreteObjectKeyFrame KeyTime="0" Value="{StaticResource PortraitBackButtonStyle}"/>
+                        </ObjectAnimationUsingKeyFrames>
+                    </Storyboard>
+                </VisualState>
+
+                <!-- The back button and title have different styles when snapped -->
+                <VisualState x:Name="Snapped">
+                    <Storyboard>
+                        <ObjectAnimationUsingKeyFrames Storyboard.TargetName="backButton" Storyboard.TargetProperty="Style">
+                            <DiscreteObjectKeyFrame KeyTime="0" Value="{StaticResource SnappedBackButtonStyle}"/>
+                        </ObjectAnimationUsingKeyFrames>
+                        <ObjectAnimationUsingKeyFrames Storyboard.TargetName="pageTitle" Storyboard.TargetProperty="Style">
+                            <DiscreteObjectKeyFrame KeyTime="0" Value="{StaticResource SnappedPageHeaderTextStyle}"/>
+                        </ObjectAnimationUsingKeyFrames>
+                    </Storyboard>
+                </VisualState>
+            </VisualStateGroup>
+        </VisualStateManager.VisualStateGroups>
+    </Grid>
+</common:LayoutAwarePage>

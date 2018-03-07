@@ -1,0 +1,117 @@
+﻿<common:LayoutAwarePage
+    x:Name="pageRoot"
+    x:Class="App9.BasicPage3"
+    DataContext="{Binding DefaultViewModel, RelativeSource={RelativeSource Self}}"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:App9"
+    xmlns:common="using:App9.Common"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <Page.Resources>
+
+        <!-- TODO: Delete this line if the key AppName is declared in App.xaml -->
+        <x:String x:Key="AppName">My Application</x:String>
+    </Page.Resources>
+
+    <!--
+        This grid acts as a root panel for the page that defines two rows:
+        * Row 0 contains the back button and page title
+        * Row 1 contains the rest of the page layout
+    -->
+    <Grid Style="{StaticResource LayoutRootStyle}">
+        <Grid.Background>
+            <ImageBrush Stretch="Fill" ImageSource="Assets/Black-background-set-wood-on-chanconsultants-jpg.jpg"/>
+        </Grid.Background>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="140"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <!-- Back button and page title -->
+        <Grid>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="Auto"/>
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+            <Button x:ConnectionId='1' x:Name="backButton"                IsEnabled="{Binding Frame.CanGoBack, ElementName=pageRoot}" Style="{StaticResource BackButtonStyle}"/>
+            <TextBlock x:Name="pageTitle" Grid.Column="1" Text="Target Achievers" Style="{StaticResource PageHeaderTextStyle}"/>
+        </Grid>
+
+        <Image HorizontalAlignment="Left" Height="218" Margin="39,176,0,0" Grid.Row="1" VerticalAlignment="Top" Width="311" Source="Assets/images (5).jpg" RenderTransformOrigin="0.5,0.5">
+            <Image.RenderTransform>
+                <CompositeTransform Rotation="-8.919"/>
+            </Image.RenderTransform>
+        </Image>
+        <TextBlock x:Name="ty1" HorizontalAlignment="Left" Margin="408,10,0,0" Grid.Row="1" TextWrapping="Wrap" VerticalAlignment="Top" Height="567" Width="917" >
+        	<Run Foreground="#FF1A5B64" FontSize="28" Text="Exam Preparation: "/>
+        	<Run Foreground="#FF1A5B64" FontSize="28" Text="Four Study Tips"/>
+        	<LineBreak/>
+        	<Run Foreground="#FFFBFAFA" FontWeight="Bold" FontSize="20" Text="Preparing "/>
+        	<Run Foreground="#FFFBFAFA" FontSize="20" Text="for "/>
+        	<Run Foreground="#FFFBFAFA" FontWeight="Bold" FontSize="20" Text="exams"/>
+        	<Run Foreground="#FFFBFAFA" FontSize="20" Text="? Give yourself the best chance with these top ten "/>
+        	<Run Foreground="#FFFBFAFA" FontWeight="Bold" FontSize="20" Text="study tips"/>
+        	<Run Foreground="#FFFBFAFA" FontSize="20" Text="."/>
+        	<LineBreak/>
+        	<Run Foreground="#FFFBFAFA" FontSize="18"/>
+        	<LineBreak/>
+        	<Run Foreground="#FFFBFAFA" FontSize="18" Text="1. Give yourself enough time to study"/>
+        	<LineBreak/>
+        	<Run Foreground="#FFFBFAFA" FontSize="16" Text="Don't leave it until the last minute. While some students do seem to thrive on last-minute 'cramming', it's widely accepted that for most of us, this is not the best way to approach an exam. Set out a timetable for your study. Write down how many exams you have and the days on which you have to sit them. Then organize your study accordingly. You may want to give some exams more study time than others, so find a balance that you feel comfortable with. "/>
+        	<LineBreak/>
+        	<Run Foreground="#FFFBFAFA" FontSize="16"/>
+        	<LineBreak/>
+        	<Run Foreground="#FFFBFAFA" FontSize="18" Text="2. Organize your study space"/>
+        	<LineBreak/>
+        	<Run Foreground="#FFFBFAFA" FontSize="16" Text="Make sure you have enough space to spread your textbooks and notes out. Have you got enough light? Is your chair comfortable? Are your computer games out of sight?"/>
+        	<LineBreak/>
+        	<Run Foreground="#FFFBFAFA" FontSize="16" Text="Try and get rid of all distractions, and make sure you feel as comfortable and able to focus as possible. For some people, this may mean almost complete silence; for others, background music helps. Some of us need everything completely tidy and organized in order to concentrate, while others thrive in a more cluttered environment. Think about what works for you, and take the time to get it right."/>
+        	<LineBreak/>
+        	<Run Foreground="#FFFBFAFA" FontSize="16"/>
+        	<LineBreak/>
+        	<Run Foreground="#FFFBFAFA" FontSize="18" Text="3. Use flow charts and diagrams"/>
+        	<LineBreak/>
+        	<Run Foreground="#FFFBFAFA" FontSize="16" Text="Visual aids can be really helpful when revising. At the start of a topic, challenge yourself to write down everything you already know about a topic - and then highlight where the gaps lie. Closer to the exam, condense your revision notes into one-page diagrams. Getting your ideas down in this brief format can then help you to quickly recall everything you need to know during the exam."/>
+        	<LineBreak/>
+        	<Run Foreground="#FFFBFAFA" FontSize="16"/>
+        	<LineBreak/>
+        	<Run Foreground="#FFFBFAFA" FontSize="18" Text="4. Practice on old exams"/>
+        	<LineBreak/>
+        	<Run Foreground="#FFFBFAFA" FontSize="16" Text="One of the most effective ways to prepare for exams is to practice taking past versions. This helps you get used to the format of the questions, and - if you time yourself - can also be good practice for making sure you spend the right amount of time on each section. "/>
+        	<LineBreak/>
+        </TextBlock>
+        <VisualStateManager.VisualStateGroups>
+
+            <!-- Visual states reflect the application's view state -->
+            <VisualStateGroup x:Name="ApplicationViewStates">
+                <VisualState x:Name="FullScreenLandscape"/>
+                <VisualState x:Name="Filled"/>
+
+                <!-- The entire page respects the narrower 100-pixel margin convention for portrait -->
+                <VisualState x:Name="FullScreenPortrait">
+                    <Storyboard>
+                        <ObjectAnimationUsingKeyFrames Storyboard.TargetName="backButton" Storyboard.TargetProperty="Style">
+                            <DiscreteObjectKeyFrame KeyTime="0" Value="{StaticResource PortraitBackButtonStyle}"/>
+                        </ObjectAnimationUsingKeyFrames>
+                    </Storyboard>
+                </VisualState>
+
+                <!-- The back button and title have different styles when snapped -->
+                <VisualState x:Name="Snapped">
+                    <Storyboard>
+                        <ObjectAnimationUsingKeyFrames Storyboard.TargetName="backButton" Storyboard.TargetProperty="Style">
+                            <DiscreteObjectKeyFrame KeyTime="0" Value="{StaticResource SnappedBackButtonStyle}"/>
+                        </ObjectAnimationUsingKeyFrames>
+                        <ObjectAnimationUsingKeyFrames Storyboard.TargetName="pageTitle" Storyboard.TargetProperty="Style">
+                            <DiscreteObjectKeyFrame KeyTime="0" Value="{StaticResource SnappedPageHeaderTextStyle}"/>
+                        </ObjectAnimationUsingKeyFrames>
+                    </Storyboard>
+                </VisualState>
+            </VisualStateGroup>
+        </VisualStateManager.VisualStateGroups>
+    </Grid>
+</common:LayoutAwarePage>
+

@@ -1,0 +1,157 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>DESKTOP-HH2KDE2</Machine>
+    <WindowsUser>Arpit</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <TargetOsVersion>6.3</TargetOsVersion>
+    <TargetOsDescription>Windows 8.1</TargetOsDescription>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>9e2d646f-0c9c-4897-893a-5a88431de3bb</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\Arpit\Downloads\ta-2015-11-13\ta\obj\Debug\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Arpit\Downloads\ta-2015-11-13\ta\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Arpit\Downloads\ta-2015-11-13\ta\bin\Debug\App9.exe">
+      <PackagePath>App9.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Arpit\Downloads\ta-2015-11-13\ta\Assets\2013106-5102364-9290-not.png">
+      <PackagePath>Assets\2013106-5102364-9290-not.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Arpit\Downloads\ta-2015-11-13\ta\Assets\agt_announcements.png">
+      <PackagePath>Assets\agt_announcements.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Arpit\Downloads\ta-2015-11-13\ta\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Arpit\Downloads\ta-2015-11-13\ta\Assets\pinicon-13796978738ng4k.png">
+      <PackagePath>Assets\pinicon-13796978738ng4k.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Arpit\Downloads\ta-2015-11-13\ta\Assets\SmallLogo.png">
+      <PackagePath>Assets\SmallLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Arpit\Downloads\ta-2015-11-13\ta\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Arpit\Downloads\ta-2015-11-13\ta\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Arpit\Downloads\ta-2015-11-13\ta\Assets\target-logo-Recovered.png">
+      <PackagePath>Assets\target-logo-Recovered.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Arpit\Downloads\ta-2015-11-13\ta\Assets\Untitled-1-Recovered.png">
+      <PackagePath>Assets\Untitled-1-Recovered.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Arpit\Downloads\ta-2015-11-13\ta\Assets\article_42707_5772.jpg">
+      <PackagePath>Assets\article_42707_5772.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Arpit\Downloads\ta-2015-11-13\ta\Assets\Black-background-set-wood-on-chanconsultants-jpg.jpg">
+      <PackagePath>Assets\Black-background-set-wood-on-chanconsultants-jpg.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Arpit\Downloads\ta-2015-11-13\ta\Assets\coaching1.jpg">
+      <PackagePath>Assets\coaching1.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Arpit\Downloads\ta-2015-11-13\ta\Assets\download %281%29.jpg">
+      <PackagePath>Assets\download %281%29.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Arpit\Downloads\ta-2015-11-13\ta\Assets\download.jpg">
+      <PackagePath>Assets\download.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Arpit\Downloads\ta-2015-11-13\ta\Assets\fiitjee-logo.jpg">
+      <PackagePath>Assets\fiitjee-logo.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Arpit\Downloads\ta-2015-11-13\ta\Assets\helpful_tips.jpg">
+      <PackagePath>Assets\helpful_tips.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Arpit\Downloads\ta-2015-11-13\ta\Assets\IIT Kharagpur_4C--621x414.jpg">
+      <PackagePath>Assets\IIT Kharagpur_4C--621x414.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Arpit\Downloads\ta-2015-11-13\ta\Assets\images %281%29.jpg">
+      <PackagePath>Assets\images %281%29.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Arpit\Downloads\ta-2015-11-13\ta\Assets\images %282%29.jpg">
+      <PackagePath>Assets\images %282%29.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Arpit\Downloads\ta-2015-11-13\ta\Assets\images %284%29.jpg">
+      <PackagePath>Assets\images %284%29.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Arpit\Downloads\ta-2015-11-13\ta\Assets\images %285%29.jpg">
+      <PackagePath>Assets\images %285%29.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Arpit\Downloads\ta-2015-11-13\ta\Assets\images.jpg">
+      <PackagePath>Assets\images.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Arpit\Downloads\ta-2015-11-13\ta\Assets\JECRC Logo.jpg">
+      <PackagePath>Assets\JECRC Logo.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Arpit\Downloads\ta-2015-11-13\ta\Assets\Mathematical_equations.jpg">
+      <PackagePath>Assets\Mathematical_equations.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Arpit\Downloads\ta-2015-11-13\ta\Assets\Mathematics.jpg">
+      <PackagePath>Assets\Mathematics.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Arpit\Downloads\ta-2015-11-13\ta\Common\ReadMe.txt">
+      <PackagePath>Common\ReadMe.txt</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Arpit\Downloads\ta-2015-11-13\ta\bin\Debug\App9.xr.xml">
+      <PackagePath>App9.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Arpit\Downloads\ta-2015-11-13\ta\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Arpit\Downloads\ta-2015-11-13\ta\bin\Debug\BasicPage1.xbf">
+      <PackagePath>BasicPage1.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Arpit\Downloads\ta-2015-11-13\ta\bin\Debug\BasicPage2.xbf">
+      <PackagePath>BasicPage2.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Arpit\Downloads\ta-2015-11-13\ta\bin\Debug\BasicPage3.xbf">
+      <PackagePath>BasicPage3.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Arpit\Downloads\ta-2015-11-13\ta\bin\Debug\BasicPage4.xbf">
+      <PackagePath>BasicPage4.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Arpit\Downloads\ta-2015-11-13\ta\bin\Debug\BasicPage5.xbf">
+      <PackagePath>BasicPage5.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Arpit\Downloads\ta-2015-11-13\ta\bin\Debug\BasicPage6.xbf">
+      <PackagePath>BasicPage6.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Arpit\Downloads\ta-2015-11-13\ta\bin\Debug\BlankPage1.xbf">
+      <PackagePath>BlankPage1.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Arpit\Downloads\ta-2015-11-13\ta\bin\Debug\BlankPage3.xbf">
+      <PackagePath>BlankPage3.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Arpit\Downloads\ta-2015-11-13\ta\bin\Debug\BlankPage5.xbf">
+      <PackagePath>BlankPage5.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Arpit\Downloads\ta-2015-11-13\ta\bin\Debug\BlankPage6.xbf">
+      <PackagePath>BlankPage6.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Arpit\Downloads\ta-2015-11-13\ta\bin\Debug\BlankPage7.xbf">
+      <PackagePath>BlankPage7.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Arpit\Downloads\ta-2015-11-13\ta\bin\Debug\Common\StandardStyles.xbf">
+      <PackagePath>Common\StandardStyles.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Arpit\Downloads\ta-2015-11-13\ta\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Arpit\Downloads\ta-2015-11-13\ta\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

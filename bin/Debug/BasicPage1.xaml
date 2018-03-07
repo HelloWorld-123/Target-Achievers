@@ -1,0 +1,135 @@
+﻿<common:LayoutAwarePage
+    x:Name="pageRoot"
+    x:Class="App9.BasicPage1"
+    DataContext="{Binding DefaultViewModel, RelativeSource={RelativeSource Self}}"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:App9"
+    xmlns:common="using:App9.Common"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <Page.Resources>
+
+        <!-- TODO: Delete this line if the key AppName is declared in App.xaml -->
+        <x:String x:Key="AppName">My Application</x:String>
+    </Page.Resources>
+
+    <!--
+        This grid acts as a root panel for the page that defines two rows:
+        * Row 0 contains the back button and page title
+        * Row 1 contains the rest of the page layout
+    -->
+    <Grid Style="{StaticResource LayoutRootStyle}">
+        <Grid.Background>
+            <ImageBrush Stretch="Fill" ImageSource="Assets/Black-background-set-wood-on-chanconsultants-jpg.jpg"/>
+        </Grid.Background>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="140"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <!-- Back button and page title -->
+        <Grid>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="Auto"/>
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+            <Button x:ConnectionId='1' x:Name="backButton"                IsEnabled="{Binding Frame.CanGoBack, ElementName=pageRoot}" Style="{StaticResource BackButtonStyle}"/>
+            <TextBlock x:Name="pageTitle" Grid.Column="1" Text="Target Achievers" Style="{StaticResource PageHeaderTextStyle}"/>
+        </Grid>
+        <Image x:Name="imge" HorizontalAlignment="Left" Height="282" Margin="59,68,0,0" Grid.Row="1" VerticalAlignment="Top" Width="318" Source="Assets/target-logo-Recovered.png"/>
+        <TextBlock x:Name="txt1" HorizontalAlignment="Left" Margin="132,390,0,0" Grid.Row="1" TextWrapping="Wrap" VerticalAlignment="Top" Height="185" Width="245" Foreground="#FFF9F7F7" FontFamily="Bradley Hand ITC" FontSize="24" FontStretch="SemiExpanded" LineHeight="6" FontWeight="ExtraBold">
+        	<Run Text="Made BY :"/>
+        	<LineBreak/>
+        	<Run Text="-Arpit Saxena "/>
+        	<LineBreak/>
+        	<Run Text="-Arpit Agrawal"/>
+        	<LineBreak/>
+        	<Run Text="-Heena Khanwani"/>
+        	<LineBreak/>
+        	<Run Text="-Himanshu Gupta"/>
+        	<LineBreak/>
+        	<Run Text="-Anshul Gadia"/>
+        	<LineBreak/>
+        	<Run/>
+        </TextBlock>
+        <TextBlock HorizontalAlignment="Left" Margin="484,32,0,0" Grid.Row="1" TextWrapping="Wrap" VerticalAlignment="Top" Height="555" Width="822" FontFamily="CordiaUPC" FontSize="24">
+        	<Span>
+        		<Run Text="Are you planning to make our career in ENGINEERING. "/>
+        	</Span>
+        	<LineBreak/>
+        	<Span>
+        		<Run Text="Do you want admission in good college????"/>
+        	</Span>
+        	<LineBreak/>
+        	<Span>
+        		<Run Text="So here is an application you are probably looking for. "/>
+        	</Span>
+        	<LineBreak/>
+        	<Span>
+        		<Run Text="TARGET ACHIEVERS help you to put your eye on your future as an engineer."/>
+        	</Span>
+        	<LineBreak/>
+        	<Span>
+        		<Run Text="This application helps you to prepare yourself for coming engineering examinations and make it easier to fulfill your ambition to become a good engineer."/>
+        	</Span>
+        	<LineBreak/>
+        	<Span>
+        		<Run Text="This is a quiz oriented application. It contains questions on all the subjects i.e. Physics, Chemistry and Maths that will help you to prepare for entrance exams of engineering to get admissions in good Indian colleges."/>
+        	</Span>
+        	<LineBreak/>
+        	<Span>
+        		<Run Text="It is a self evaluation application. You will be provided with questions on three subjects. It's upto you which subject you want to choose. You can choose each subject individually or you can do it all together. "/>
+        	</Span>
+        	<LineBreak/>
+        	<Span>
+        		<Run Text="This application also give us information about top coaching institutes and Exams that are going to be held for the same. It also provide us information about top colleges of India and their is also a section for experts comment."/>
+        	</Span>
+        	<LineBreak/>
+        	<Span>
+        		<Run Text="This application helps you to target the institute in which you want  to study."/>
+        	</Span>
+        	<LineBreak/>
+        	<Span>
+        		<Run Text="Tips and Tricks are also provided that helps the students in attempting any of the entrance exams of India."/>
+        	</Span>
+        	<LineBreak/>
+        	<Span>
+        		<Run Text="This application includes all the ingredients to become  a successful engineer."/>
+        	</Span>
+        </TextBlock>
+
+        <VisualStateManager.VisualStateGroups>
+
+            <!-- Visual states reflect the application's view state -->
+            <VisualStateGroup x:Name="ApplicationViewStates">
+                <VisualState x:Name="FullScreenLandscape"/>
+                <VisualState x:Name="Filled"/>
+
+                <!-- The entire page respects the narrower 100-pixel margin convention for portrait -->
+                <VisualState x:Name="FullScreenPortrait">
+                    <Storyboard>
+                        <ObjectAnimationUsingKeyFrames Storyboard.TargetName="backButton" Storyboard.TargetProperty="Style">
+                            <DiscreteObjectKeyFrame KeyTime="0" Value="{StaticResource PortraitBackButtonStyle}"/>
+                        </ObjectAnimationUsingKeyFrames>
+                    </Storyboard>
+                </VisualState>
+
+                <!-- The back button and title have different styles when snapped -->
+                <VisualState x:Name="Snapped">
+                    <Storyboard>
+                        <ObjectAnimationUsingKeyFrames Storyboard.TargetName="backButton" Storyboard.TargetProperty="Style">
+                            <DiscreteObjectKeyFrame KeyTime="0" Value="{StaticResource SnappedBackButtonStyle}"/>
+                        </ObjectAnimationUsingKeyFrames>
+                        <ObjectAnimationUsingKeyFrames Storyboard.TargetName="pageTitle" Storyboard.TargetProperty="Style">
+                            <DiscreteObjectKeyFrame KeyTime="0" Value="{StaticResource SnappedPageHeaderTextStyle}"/>
+                        </ObjectAnimationUsingKeyFrames>
+                    </Storyboard>
+                </VisualState>
+            </VisualStateGroup>
+        </VisualStateManager.VisualStateGroups>
+    </Grid>
+</common:LayoutAwarePage>
+

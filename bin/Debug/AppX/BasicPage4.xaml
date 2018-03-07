@@ -1,0 +1,81 @@
+﻿<common:LayoutAwarePage
+    x:Name="pageRoot"
+    x:Class="App9.BasicPage4"
+    DataContext="{Binding DefaultViewModel, RelativeSource={RelativeSource Self}}"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:App9"
+    xmlns:common="using:App9.Common"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <Page.Resources>
+
+        <!-- TODO: Delete this line if the key AppName is declared in App.xaml -->
+        <x:String x:Key="AppName">My Application</x:String>
+    </Page.Resources>
+
+    <!--
+        This grid acts as a root panel for the page that defines two rows:
+        * Row 0 contains the back button and page title
+        * Row 1 contains the rest of the page layout
+    -->
+    <Grid Style="{StaticResource LayoutRootStyle}">
+        <Grid.Background>
+            <ImageBrush Stretch="Fill" ImageSource="Assets/Black-background-set-wood-on-chanconsultants-jpg.jpg"/>
+        </Grid.Background>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="140"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <!-- Back button and page title -->
+        <Grid>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="Auto"/>
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+            <Button x:ConnectionId='2' x:Name="backButton"                IsEnabled="{Binding Frame.CanGoBack, ElementName=pageRoot}" Style="{StaticResource BackButtonStyle}"/>
+            <TextBlock x:Name="pageTitle" Grid.Column="1" Text="Target Achievers" Style="{StaticResource PageHeaderTextStyle}"/>
+        </Grid>
+        <TextBlock x:ConnectionId='1' HorizontalAlignment="Left" Margin="510,10,0,0" Grid.Row="1" TextWrapping="Wrap" VerticalAlignment="Top" Height="561" Width="771" Foreground="#FFF9F7F7" FontFamily="CordiaUPC" FontSize="20"                                              >
+        	<Run Foreground="#FFFBF3F3" FontWeight="Bold" FontSize="24" Text="Tips 'nd' Tricks for Entrance:-"/>
+        	<LineBreak/>
+        	<Run Text="•&#x9;"/>
+        	<Run FontSize="22" Text="Solve as many numerical as you can solve in an single day At least 40 to 50 numerical per day from every subjects including Numerical in there syllabus.&#xA;•&#x9;Plan for time instant as you have to set an fixed time period for students to solve particular question.&#xA;•&#x9;Deeply overcome of the basics of formula or formulae an analyze all portions of the formula, its theoretical as well as its practical workout can help you a lot to crack any question related to it.&#xA;•&#x9;Preparation is an step up-step up workout, To  crack any entrance you have to complete all steps to reach at the peek value of it so always fulfill your planing as well as achieve day to day targets set by you in planing.&#xA;•&#x9;Always Have as an eagle eye on the sample papers as well as last year exam papers this will help you a lot in understanding the query well.&#xA;•&#x9;Try to crack every other query by your self this will boost up your confidence very much as well as gave you the required confidence to do nay question at the exam time.&#xA;•&#x9;Never Give Up. This is the worst thing to do during the exam time as well as preparation time . there will be a lot of mind states in your mind at the time of preparations but you should and you must stick to your goal you want to achieve.&#xA;•&#x9;Try to make a short note on a pages for the topics you feel you are forgetting &amp; trough for you to solve it down which you will be study at time when you feel low on confidence, with short notes you can able to get rid of it easily and earliest."/>
+        </TextBlock>
+        <Image HorizontalAlignment="Left" Height="364" Margin="58,121,0,0" Grid.Row="1" VerticalAlignment="Top" Width="384" Source="Assets/helpful_tips.jpg"/>
+
+        <VisualStateManager.VisualStateGroups>
+
+            <!-- Visual states reflect the application's view state -->
+            <VisualStateGroup x:Name="ApplicationViewStates">
+                <VisualState x:Name="FullScreenLandscape"/>
+                <VisualState x:Name="Filled"/>
+
+                <!-- The entire page respects the narrower 100-pixel margin convention for portrait -->
+                <VisualState x:Name="FullScreenPortrait">
+                    <Storyboard>
+                        <ObjectAnimationUsingKeyFrames Storyboard.TargetName="backButton" Storyboard.TargetProperty="Style">
+                            <DiscreteObjectKeyFrame KeyTime="0" Value="{StaticResource PortraitBackButtonStyle}"/>
+                        </ObjectAnimationUsingKeyFrames>
+                    </Storyboard>
+                </VisualState>
+
+                <!-- The back button and title have different styles when snapped -->
+                <VisualState x:Name="Snapped">
+                    <Storyboard>
+                        <ObjectAnimationUsingKeyFrames Storyboard.TargetName="backButton" Storyboard.TargetProperty="Style">
+                            <DiscreteObjectKeyFrame KeyTime="0" Value="{StaticResource SnappedBackButtonStyle}"/>
+                        </ObjectAnimationUsingKeyFrames>
+                        <ObjectAnimationUsingKeyFrames Storyboard.TargetName="pageTitle" Storyboard.TargetProperty="Style">
+                            <DiscreteObjectKeyFrame KeyTime="0" Value="{StaticResource SnappedPageHeaderTextStyle}"/>
+                        </ObjectAnimationUsingKeyFrames>
+                    </Storyboard>
+                </VisualState>
+            </VisualStateGroup>
+        </VisualStateManager.VisualStateGroups>
+    </Grid>
+</common:LayoutAwarePage>
+

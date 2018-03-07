@@ -1,0 +1,104 @@
+﻿<common:LayoutAwarePage
+    x:Name="pageRoot"
+    x:Class="App9.BasicPage2"
+    DataContext="{Binding DefaultViewModel, RelativeSource={RelativeSource Self}}"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:App9"
+    xmlns:common="using:App9.Common"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <Page.Resources>
+
+        <!-- TODO: Delete this line if the key AppName is declared in App.xaml -->
+        <x:String x:Key="AppName">My Application</x:String>
+    </Page.Resources>
+
+    <!--
+        This grid acts as a root panel for the page that defines two rows:
+        * Row 0 contains the back button and page title
+        * Row 1 contains the rest of the page layout
+    -->
+    <Grid Style="{StaticResource LayoutRootStyle}">
+        <Grid.Background>
+            <ImageBrush Stretch="Fill" ImageSource="Assets/Black-background-set-wood-on-chanconsultants-jpg.jpg"/>
+        </Grid.Background>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="140"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <!-- Back button and page title -->
+        <Grid>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="Auto"/>
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+            <Button x:ConnectionId='2' x:Name="backButton"                IsEnabled="{Binding Frame.CanGoBack, ElementName=pageRoot}" Style="{StaticResource BackButtonStyle}"/>
+            <TextBlock x:Name="pageTitle" Grid.Column="1" Text="Target Achievers" Style="{StaticResource PageHeaderTextStyle}"/>
+            <TextBlock Grid.Column="1" HorizontalAlignment="Left" Margin="337,261,0,-592" TextWrapping="Wrap" VerticalAlignment="Top" Height="471" Width="855" FontSize="22" Foreground="WhiteSmoke" FontFamily="Batang" TextAlignment="Justify">
+            	<Run Text="&#x9;"/>
+            	<LineBreak/>
+            	<Run Text="JECRC University has its campus in Jaipur the capital city of Rajasthan and the famous tourist and business city in north-western India."/>
+            	<LineBreak/>
+            	<Run/>
+            	<LineBreak/>
+            	<Run Text="&#x9;The 32-acre JU campus combines unique classical architecture and thoughtful layout and landscaping to create a perfect learning ecosystem. The campus is located around the prime industrial and institutional hub of Jaipur and is well connected with all parts of the city."/>
+            	<LineBreak/>
+            	<Run/>
+            	<LineBreak/>
+            	<Run Text="&#x9;JECRC University is driven by the spirit of innovation-led research. This is spelt out in infrastructure as well as practices. The multifaceted research encompasses subject-specific exploration as well as the contexts of the business environment in which our students will operate and perform. JECRC is known for a strong research culture and close industry linkages."/>
+            	<LineBreak/>
+            	<Run/>
+            	<LineBreak/>
+            	<Run Text="&#x9;JU aims at creating valuable resources for industry and society through its interventions in creation of research and innovative culture, academic and professional enhancement and cultural enrichment"/>
+            	<Run Text="."/>
+            </TextBlock>
+        </Grid>
+        <Grid HorizontalAlignment="Left" Height="436" Margin="83,84,0,0" Grid.Row="1" VerticalAlignment="Top" Width="276"/>
+        <GridView HorizontalAlignment="Left" Margin="83,84,0,0" Grid.Row="1" VerticalAlignment="Top" Width="276" Height="436"/>
+
+        <TextBlock x:Name="titl" HorizontalAlignment="Left" Margin="546,32,0,0" Grid.Row="1" TextWrapping="Wrap" VerticalAlignment="Top" Height="112" Width="660" TextAlignment="Center" FontFamily="Bookman Old Style" FontSize="24">
+        	<Run FontSize="28" Text="JECRC UNIVERSITY"/>
+        	<LineBreak/>
+        	<Run FontSize="28"/>
+        	<LineBreak/>
+        	<Run FontSize="16" Text="JECRC University – driven by a culture of excellence, research &amp; innovation"/>
+        </TextBlock>
+        <StackPanel HorizontalAlignment="Left" Height="470" Margin="83,50,0,0" Grid.Row="1" VerticalAlignment="Top" Width="276">
+            <Image x:ConnectionId='1' x:Name="ju" HorizontalAlignment="Left" Height="345" Margin="0,84,0,0" VerticalAlignment="Top" Width="276" Source="Assets/JECRC Logo.jpg"                   />
+        </StackPanel>
+        <VisualStateManager.VisualStateGroups>
+
+            <!-- Visual states reflect the application's view state -->
+            <VisualStateGroup x:Name="ApplicationViewStates">
+                <VisualState x:Name="FullScreenLandscape"/>
+                <VisualState x:Name="Filled"/>
+
+                <!-- The entire page respects the narrower 100-pixel margin convention for portrait -->
+                <VisualState x:Name="FullScreenPortrait">
+                    <Storyboard>
+                        <ObjectAnimationUsingKeyFrames Storyboard.TargetName="backButton" Storyboard.TargetProperty="Style">
+                            <DiscreteObjectKeyFrame KeyTime="0" Value="{StaticResource PortraitBackButtonStyle}"/>
+                        </ObjectAnimationUsingKeyFrames>
+                    </Storyboard>
+                </VisualState>
+
+                <!-- The back button and title have different styles when snapped -->
+                <VisualState x:Name="Snapped">
+                    <Storyboard>
+                        <ObjectAnimationUsingKeyFrames Storyboard.TargetName="backButton" Storyboard.TargetProperty="Style">
+                            <DiscreteObjectKeyFrame KeyTime="0" Value="{StaticResource SnappedBackButtonStyle}"/>
+                        </ObjectAnimationUsingKeyFrames>
+                        <ObjectAnimationUsingKeyFrames Storyboard.TargetName="pageTitle" Storyboard.TargetProperty="Style">
+                            <DiscreteObjectKeyFrame KeyTime="0" Value="{StaticResource SnappedPageHeaderTextStyle}"/>
+                        </ObjectAnimationUsingKeyFrames>
+                    </Storyboard>
+                </VisualState>
+            </VisualStateGroup>
+        </VisualStateManager.VisualStateGroups>
+    </Grid>
+</common:LayoutAwarePage>
+

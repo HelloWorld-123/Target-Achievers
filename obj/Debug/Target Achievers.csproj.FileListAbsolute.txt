@@ -1,0 +1,284 @@
+C:\Users\ARPIT\Downloads\EdVantageTrainingMaterial\EdVantageTrainingMaterial\W8 App Layout\App9\App9\bin\Debug\App9.exe
+C:\Users\ARPIT\Downloads\EdVantageTrainingMaterial\EdVantageTrainingMaterial\W8 App Layout\App9\App9\bin\Debug\App9.pdb
+C:\Users\ARPIT\Downloads\EdVantageTrainingMaterial\EdVantageTrainingMaterial\W8 App Layout\App9\App9\bin\Debug\resources.pri
+C:\Users\ARPIT\Downloads\EdVantageTrainingMaterial\EdVantageTrainingMaterial\W8 App Layout\App9\App9\bin\Debug\AppxManifest.xml
+C:\Users\ARPIT\Downloads\EdVantageTrainingMaterial\EdVantageTrainingMaterial\W8 App Layout\App9\App9\bin\Debug\Target Achievers.build.appxrecipe
+C:\Users\ARPIT\Downloads\EdVantageTrainingMaterial\EdVantageTrainingMaterial\W8 App Layout\App9\App9\obj\Debug\App.g.i.cs
+C:\Users\ARPIT\Downloads\EdVantageTrainingMaterial\EdVantageTrainingMaterial\W8 App Layout\App9\App9\obj\Debug\App.g.cs
+C:\Users\ARPIT\Downloads\EdVantageTrainingMaterial\EdVantageTrainingMaterial\W8 App Layout\App9\App9\obj\Debug\BasicPage1.g.i.cs
+C:\Users\ARPIT\Downloads\EdVantageTrainingMaterial\EdVantageTrainingMaterial\W8 App Layout\App9\App9\obj\Debug\BasicPage1.g.cs
+C:\Users\ARPIT\Downloads\EdVantageTrainingMaterial\EdVantageTrainingMaterial\W8 App Layout\App9\App9\obj\Debug\BasicPage2.g.i.cs
+C:\Users\ARPIT\Downloads\EdVantageTrainingMaterial\EdVantageTrainingMaterial\W8 App Layout\App9\App9\obj\Debug\BasicPage2.g.cs
+C:\Users\ARPIT\Downloads\EdVantageTrainingMaterial\EdVantageTrainingMaterial\W8 App Layout\App9\App9\obj\Debug\BasicPage3.g.i.cs
+C:\Users\ARPIT\Downloads\EdVantageTrainingMaterial\EdVantageTrainingMaterial\W8 App Layout\App9\App9\obj\Debug\BasicPage3.g.cs
+C:\Users\ARPIT\Downloads\EdVantageTrainingMaterial\EdVantageTrainingMaterial\W8 App Layout\App9\App9\obj\Debug\BasicPage4.g.i.cs
+C:\Users\ARPIT\Downloads\EdVantageTrainingMaterial\EdVantageTrainingMaterial\W8 App Layout\App9\App9\obj\Debug\BasicPage4.g.cs
+C:\Users\ARPIT\Downloads\EdVantageTrainingMaterial\EdVantageTrainingMaterial\W8 App Layout\App9\App9\obj\Debug\BasicPage5.g.i.cs
+C:\Users\ARPIT\Downloads\EdVantageTrainingMaterial\EdVantageTrainingMaterial\W8 App Layout\App9\App9\obj\Debug\BasicPage5.g.cs
+C:\Users\ARPIT\Downloads\EdVantageTrainingMaterial\EdVantageTrainingMaterial\W8 App Layout\App9\App9\obj\Debug\BasicPage6.g.i.cs
+C:\Users\ARPIT\Downloads\EdVantageTrainingMaterial\EdVantageTrainingMaterial\W8 App Layout\App9\App9\obj\Debug\BasicPage6.g.cs
+C:\Users\ARPIT\Downloads\EdVantageTrainingMaterial\EdVantageTrainingMaterial\W8 App Layout\App9\App9\obj\Debug\BlankPage1.g.i.cs
+C:\Users\ARPIT\Downloads\EdVantageTrainingMaterial\EdVantageTrainingMaterial\W8 App Layout\App9\App9\obj\Debug\BlankPage1.g.cs
+C:\Users\ARPIT\Downloads\EdVantageTrainingMaterial\EdVantageTrainingMaterial\W8 App Layout\App9\App9\obj\Debug\BlankPage3.g.i.cs
+C:\Users\ARPIT\Downloads\EdVantageTrainingMaterial\EdVantageTrainingMaterial\W8 App Layout\App9\App9\obj\Debug\BlankPage3.g.cs
+C:\Users\ARPIT\Downloads\EdVantageTrainingMaterial\EdVantageTrainingMaterial\W8 App Layout\App9\App9\obj\Debug\BlankPage5.g.i.cs
+C:\Users\ARPIT\Downloads\EdVantageTrainingMaterial\EdVantageTrainingMaterial\W8 App Layout\App9\App9\obj\Debug\BlankPage5.g.cs
+C:\Users\ARPIT\Downloads\EdVantageTrainingMaterial\EdVantageTrainingMaterial\W8 App Layout\App9\App9\obj\Debug\BlankPage6.g.i.cs
+C:\Users\ARPIT\Downloads\EdVantageTrainingMaterial\EdVantageTrainingMaterial\W8 App Layout\App9\App9\obj\Debug\BlankPage6.g.cs
+C:\Users\ARPIT\Downloads\EdVantageTrainingMaterial\EdVantageTrainingMaterial\W8 App Layout\App9\App9\obj\Debug\BlankPage7.g.i.cs
+C:\Users\ARPIT\Downloads\EdVantageTrainingMaterial\EdVantageTrainingMaterial\W8 App Layout\App9\App9\obj\Debug\BlankPage7.g.cs
+C:\Users\ARPIT\Downloads\EdVantageTrainingMaterial\EdVantageTrainingMaterial\W8 App Layout\App9\App9\obj\Debug\Common\StandardStyles.g.i.cs
+C:\Users\ARPIT\Downloads\EdVantageTrainingMaterial\EdVantageTrainingMaterial\W8 App Layout\App9\App9\obj\Debug\Common\StandardStyles.g.cs
+C:\Users\ARPIT\Downloads\EdVantageTrainingMaterial\EdVantageTrainingMaterial\W8 App Layout\App9\App9\obj\Debug\MainPage.g.i.cs
+C:\Users\ARPIT\Downloads\EdVantageTrainingMaterial\EdVantageTrainingMaterial\W8 App Layout\App9\App9\obj\Debug\MainPage.g.cs
+C:\Users\ARPIT\Downloads\EdVantageTrainingMaterial\EdVantageTrainingMaterial\W8 App Layout\App9\App9\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\ARPIT\Downloads\EdVantageTrainingMaterial\EdVantageTrainingMaterial\W8 App Layout\App9\App9\obj\Debug\App.xaml
+C:\Users\ARPIT\Downloads\EdVantageTrainingMaterial\EdVantageTrainingMaterial\W8 App Layout\App9\App9\obj\Debug\BasicPage1.xaml
+C:\Users\ARPIT\Downloads\EdVantageTrainingMaterial\EdVantageTrainingMaterial\W8 App Layout\App9\App9\obj\Debug\BasicPage2.xaml
+C:\Users\ARPIT\Downloads\EdVantageTrainingMaterial\EdVantageTrainingMaterial\W8 App Layout\App9\App9\obj\Debug\BasicPage3.xaml
+C:\Users\ARPIT\Downloads\EdVantageTrainingMaterial\EdVantageTrainingMaterial\W8 App Layout\App9\App9\obj\Debug\BasicPage4.xaml
+C:\Users\ARPIT\Downloads\EdVantageTrainingMaterial\EdVantageTrainingMaterial\W8 App Layout\App9\App9\obj\Debug\BasicPage5.xaml
+C:\Users\ARPIT\Downloads\EdVantageTrainingMaterial\EdVantageTrainingMaterial\W8 App Layout\App9\App9\obj\Debug\BasicPage6.xaml
+C:\Users\ARPIT\Downloads\EdVantageTrainingMaterial\EdVantageTrainingMaterial\W8 App Layout\App9\App9\obj\Debug\BlankPage1.xaml
+C:\Users\ARPIT\Downloads\EdVantageTrainingMaterial\EdVantageTrainingMaterial\W8 App Layout\App9\App9\obj\Debug\BlankPage3.xaml
+C:\Users\ARPIT\Downloads\EdVantageTrainingMaterial\EdVantageTrainingMaterial\W8 App Layout\App9\App9\obj\Debug\BlankPage5.xaml
+C:\Users\ARPIT\Downloads\EdVantageTrainingMaterial\EdVantageTrainingMaterial\W8 App Layout\App9\App9\obj\Debug\BlankPage6.xaml
+C:\Users\ARPIT\Downloads\EdVantageTrainingMaterial\EdVantageTrainingMaterial\W8 App Layout\App9\App9\obj\Debug\BlankPage7.xaml
+C:\Users\ARPIT\Downloads\EdVantageTrainingMaterial\EdVantageTrainingMaterial\W8 App Layout\App9\App9\obj\Debug\Common\StandardStyles.xaml
+C:\Users\ARPIT\Downloads\EdVantageTrainingMaterial\EdVantageTrainingMaterial\W8 App Layout\App9\App9\obj\Debug\MainPage.xaml
+C:\Users\ARPIT\Downloads\EdVantageTrainingMaterial\EdVantageTrainingMaterial\W8 App Layout\App9\App9\obj\Debug\App9.exe
+C:\Users\ARPIT\Downloads\EdVantageTrainingMaterial\EdVantageTrainingMaterial\W8 App Layout\App9\App9\obj\Debug\App9.pdb
+C:\Users\ARPIT\Downloads\EdVantageTrainingMaterial\EdVantageTrainingMaterial\W8 App Layout\App9\App9\obj\Debug\priconfig.xml
+C:\Users\ARPIT\Downloads\EdVantageTrainingMaterial\EdVantageTrainingMaterial\W8 App Layout\App9\App9\obj\Debug\priconfig.xml.intermediate
+C:\Users\ARPIT\Downloads\EdVantageTrainingMaterial\EdVantageTrainingMaterial\W8 App Layout\App9\App9\obj\Debug\layout.resfiles
+C:\Users\ARPIT\Downloads\EdVantageTrainingMaterial\EdVantageTrainingMaterial\W8 App Layout\App9\App9\obj\Debug\layout.resfiles.intermediate
+C:\Users\ARPIT\Downloads\EdVantageTrainingMaterial\EdVantageTrainingMaterial\W8 App Layout\App9\App9\obj\Debug\resources.resfiles
+C:\Users\ARPIT\Downloads\EdVantageTrainingMaterial\EdVantageTrainingMaterial\W8 App Layout\App9\App9\obj\Debug\resources.resfiles.intermediate
+C:\Users\ARPIT\Downloads\EdVantageTrainingMaterial\EdVantageTrainingMaterial\W8 App Layout\App9\App9\obj\Debug\pri.resfiles
+C:\Users\ARPIT\Downloads\EdVantageTrainingMaterial\EdVantageTrainingMaterial\W8 App Layout\App9\App9\obj\Debug\pri.resfiles.intermediate
+C:\Users\ARPIT\Downloads\EdVantageTrainingMaterial\EdVantageTrainingMaterial\W8 App Layout\App9\App9\obj\Debug\qualifiers.txt
+C:\Users\ARPIT\Downloads\EdVantageTrainingMaterial\EdVantageTrainingMaterial\W8 App Layout\App9\App9\obj\Debug\qualifiers.txt.intermediate
+C:\Users\ARPIT\Downloads\EdVantageTrainingMaterial\EdVantageTrainingMaterial\W8 App Layout\App9\App9\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\ARPIT\Downloads\EdVantageTrainingMaterial\EdVantageTrainingMaterial\W8 App Layout\App9\App9\obj\Debug\ProjectArchitectures.txt
+D:\apps\App9\bin\Debug\App9.exe
+D:\apps\App9\bin\Debug\App9.pdb
+D:\apps\App9\bin\Debug\resources.pri
+D:\apps\App9\bin\Debug\AppxManifest.xml
+D:\apps\App9\bin\Debug\Target Achievers.build.appxrecipe
+D:\apps\App9\obj\Debug\App.g.i.cs
+D:\apps\App9\obj\Debug\App.g.cs
+D:\apps\App9\obj\Debug\BasicPage1.g.i.cs
+D:\apps\App9\obj\Debug\BasicPage1.g.cs
+D:\apps\App9\obj\Debug\BasicPage2.g.i.cs
+D:\apps\App9\obj\Debug\BasicPage2.g.cs
+D:\apps\App9\obj\Debug\BasicPage3.g.i.cs
+D:\apps\App9\obj\Debug\BasicPage3.g.cs
+D:\apps\App9\obj\Debug\BasicPage4.g.i.cs
+D:\apps\App9\obj\Debug\BasicPage4.g.cs
+D:\apps\App9\obj\Debug\BasicPage5.g.i.cs
+D:\apps\App9\obj\Debug\BasicPage5.g.cs
+D:\apps\App9\obj\Debug\BasicPage6.g.i.cs
+D:\apps\App9\obj\Debug\BasicPage6.g.cs
+D:\apps\App9\obj\Debug\BlankPage1.g.i.cs
+D:\apps\App9\obj\Debug\BlankPage1.g.cs
+D:\apps\App9\obj\Debug\BlankPage3.g.i.cs
+D:\apps\App9\obj\Debug\BlankPage3.g.cs
+D:\apps\App9\obj\Debug\BlankPage5.g.i.cs
+D:\apps\App9\obj\Debug\BlankPage5.g.cs
+D:\apps\App9\obj\Debug\BlankPage6.g.i.cs
+D:\apps\App9\obj\Debug\BlankPage6.g.cs
+D:\apps\App9\obj\Debug\BlankPage7.g.i.cs
+D:\apps\App9\obj\Debug\BlankPage7.g.cs
+D:\apps\App9\obj\Debug\Common\StandardStyles.g.i.cs
+D:\apps\App9\obj\Debug\Common\StandardStyles.g.cs
+D:\apps\App9\obj\Debug\MainPage.g.i.cs
+D:\apps\App9\obj\Debug\MainPage.g.cs
+D:\apps\App9\obj\Debug\XamlTypeInfo.g.cs
+D:\apps\App9\obj\Debug\App.xaml
+D:\apps\App9\obj\Debug\BasicPage1.xaml
+D:\apps\App9\obj\Debug\BasicPage2.xaml
+D:\apps\App9\obj\Debug\BasicPage3.xaml
+D:\apps\App9\obj\Debug\BasicPage4.xaml
+D:\apps\App9\obj\Debug\BasicPage5.xaml
+D:\apps\App9\obj\Debug\BasicPage6.xaml
+D:\apps\App9\obj\Debug\BlankPage1.xaml
+D:\apps\App9\obj\Debug\BlankPage3.xaml
+D:\apps\App9\obj\Debug\BlankPage5.xaml
+D:\apps\App9\obj\Debug\BlankPage6.xaml
+D:\apps\App9\obj\Debug\BlankPage7.xaml
+D:\apps\App9\obj\Debug\Common\StandardStyles.xaml
+D:\apps\App9\obj\Debug\MainPage.xaml
+D:\apps\App9\obj\Debug\App9.exe
+D:\apps\App9\obj\Debug\App9.pdb
+D:\apps\App9\obj\Debug\priconfig.xml
+D:\apps\App9\obj\Debug\priconfig.xml.intermediate
+D:\apps\App9\obj\Debug\layout.resfiles
+D:\apps\App9\obj\Debug\layout.resfiles.intermediate
+D:\apps\App9\obj\Debug\resources.resfiles
+D:\apps\App9\obj\Debug\resources.resfiles.intermediate
+D:\apps\App9\obj\Debug\pri.resfiles
+D:\apps\App9\obj\Debug\pri.resfiles.intermediate
+D:\apps\App9\obj\Debug\qualifiers.txt
+D:\apps\App9\obj\Debug\qualifiers.txt.intermediate
+D:\apps\App9\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+D:\apps\App9\obj\Debug\ProjectArchitectures.txt
+D:\apps\ta\bin\Debug\App9.exe
+D:\apps\ta\bin\Debug\App9.pdb
+D:\apps\ta\bin\Debug\resources.pri
+D:\apps\ta\bin\Debug\AppxManifest.xml
+D:\apps\ta\bin\Debug\Target Achievers.build.appxrecipe
+D:\apps\ta\obj\Debug\App.g.i.cs
+D:\apps\ta\obj\Debug\App.g.cs
+D:\apps\ta\obj\Debug\BasicPage1.g.i.cs
+D:\apps\ta\obj\Debug\BasicPage1.g.cs
+D:\apps\ta\obj\Debug\BasicPage2.g.i.cs
+D:\apps\ta\obj\Debug\BasicPage2.g.cs
+D:\apps\ta\obj\Debug\BasicPage3.g.i.cs
+D:\apps\ta\obj\Debug\BasicPage3.g.cs
+D:\apps\ta\obj\Debug\BasicPage4.g.i.cs
+D:\apps\ta\obj\Debug\BasicPage4.g.cs
+D:\apps\ta\obj\Debug\BasicPage5.g.i.cs
+D:\apps\ta\obj\Debug\BasicPage5.g.cs
+D:\apps\ta\obj\Debug\BasicPage6.g.i.cs
+D:\apps\ta\obj\Debug\BasicPage6.g.cs
+D:\apps\ta\obj\Debug\BlankPage1.g.i.cs
+D:\apps\ta\obj\Debug\BlankPage1.g.cs
+D:\apps\ta\obj\Debug\BlankPage3.g.i.cs
+D:\apps\ta\obj\Debug\BlankPage3.g.cs
+D:\apps\ta\obj\Debug\BlankPage5.g.i.cs
+D:\apps\ta\obj\Debug\BlankPage5.g.cs
+D:\apps\ta\obj\Debug\BlankPage6.g.i.cs
+D:\apps\ta\obj\Debug\BlankPage6.g.cs
+D:\apps\ta\obj\Debug\BlankPage7.g.i.cs
+D:\apps\ta\obj\Debug\BlankPage7.g.cs
+D:\apps\ta\obj\Debug\Common\StandardStyles.g.i.cs
+D:\apps\ta\obj\Debug\Common\StandardStyles.g.cs
+D:\apps\ta\obj\Debug\MainPage.g.i.cs
+D:\apps\ta\obj\Debug\MainPage.g.cs
+D:\apps\ta\obj\Debug\XamlTypeInfo.g.cs
+D:\apps\ta\obj\Debug\App.xaml
+D:\apps\ta\obj\Debug\BasicPage1.xaml
+D:\apps\ta\obj\Debug\BasicPage2.xaml
+D:\apps\ta\obj\Debug\BasicPage3.xaml
+D:\apps\ta\obj\Debug\BasicPage4.xaml
+D:\apps\ta\obj\Debug\BasicPage5.xaml
+D:\apps\ta\obj\Debug\BasicPage6.xaml
+D:\apps\ta\obj\Debug\BlankPage1.xaml
+D:\apps\ta\obj\Debug\BlankPage3.xaml
+D:\apps\ta\obj\Debug\BlankPage5.xaml
+D:\apps\ta\obj\Debug\BlankPage6.xaml
+D:\apps\ta\obj\Debug\BlankPage7.xaml
+D:\apps\ta\obj\Debug\Common\StandardStyles.xaml
+D:\apps\ta\obj\Debug\MainPage.xaml
+D:\apps\ta\obj\Debug\App9.exe
+D:\apps\ta\obj\Debug\App9.pdb
+D:\apps\ta\obj\Debug\priconfig.xml
+D:\apps\ta\obj\Debug\priconfig.xml.intermediate
+D:\apps\ta\obj\Debug\layout.resfiles
+D:\apps\ta\obj\Debug\layout.resfiles.intermediate
+D:\apps\ta\obj\Debug\resources.resfiles
+D:\apps\ta\obj\Debug\resources.resfiles.intermediate
+D:\apps\ta\obj\Debug\pri.resfiles
+D:\apps\ta\obj\Debug\pri.resfiles.intermediate
+D:\apps\ta\obj\Debug\qualifiers.txt
+D:\apps\ta\obj\Debug\qualifiers.txt.intermediate
+D:\apps\ta\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+D:\apps\ta\obj\Debug\ProjectArchitectures.txt
+D:\apps\ta\bin\Debug\Assets\Logo.png
+D:\apps\ta\bin\Debug\Assets\SmallLogo.png
+D:\apps\ta\bin\Debug\Assets\SplashScreen.png
+C:\Users\Arpit\Downloads\ta-2015-11-13\ta\bin\Debug\Assets\Logo.png
+C:\Users\Arpit\Downloads\ta-2015-11-13\ta\bin\Debug\Assets\SmallLogo.png
+C:\Users\Arpit\Downloads\ta-2015-11-13\ta\bin\Debug\Assets\SplashScreen.png
+C:\Users\Arpit\Downloads\ta-2015-11-13\ta\bin\Debug\App.xbf
+C:\Users\Arpit\Downloads\ta-2015-11-13\ta\bin\Debug\BasicPage1.xbf
+C:\Users\Arpit\Downloads\ta-2015-11-13\ta\bin\Debug\BasicPage2.xbf
+C:\Users\Arpit\Downloads\ta-2015-11-13\ta\bin\Debug\BasicPage3.xbf
+C:\Users\Arpit\Downloads\ta-2015-11-13\ta\bin\Debug\BasicPage4.xbf
+C:\Users\Arpit\Downloads\ta-2015-11-13\ta\bin\Debug\BasicPage5.xbf
+C:\Users\Arpit\Downloads\ta-2015-11-13\ta\bin\Debug\BasicPage6.xbf
+C:\Users\Arpit\Downloads\ta-2015-11-13\ta\bin\Debug\BlankPage1.xbf
+C:\Users\Arpit\Downloads\ta-2015-11-13\ta\bin\Debug\BlankPage3.xbf
+C:\Users\Arpit\Downloads\ta-2015-11-13\ta\bin\Debug\BlankPage5.xbf
+C:\Users\Arpit\Downloads\ta-2015-11-13\ta\bin\Debug\BlankPage6.xbf
+C:\Users\Arpit\Downloads\ta-2015-11-13\ta\bin\Debug\BlankPage7.xbf
+C:\Users\Arpit\Downloads\ta-2015-11-13\ta\bin\Debug\Common\StandardStyles.xbf
+C:\Users\Arpit\Downloads\ta-2015-11-13\ta\bin\Debug\MainPage.xbf
+C:\Users\Arpit\Downloads\ta-2015-11-13\ta\bin\Debug\App9.xr.xml
+C:\Users\Arpit\Downloads\ta-2015-11-13\ta\bin\Debug\App9.exe
+C:\Users\Arpit\Downloads\ta-2015-11-13\ta\bin\Debug\App9.pdb
+C:\Users\Arpit\Downloads\ta-2015-11-13\ta\bin\Debug\resources.pri
+C:\Users\Arpit\Downloads\ta-2015-11-13\ta\bin\Debug\AppxManifest.xml
+C:\Users\Arpit\Downloads\ta-2015-11-13\ta\bin\Debug\Target Achievers.build.appxrecipe
+C:\Users\Arpit\Downloads\ta-2015-11-13\ta\obj\Debug\App.g.i.cs
+C:\Users\Arpit\Downloads\ta-2015-11-13\ta\obj\Debug\App.g.cs
+C:\Users\Arpit\Downloads\ta-2015-11-13\ta\obj\Debug\BasicPage1.g.i.cs
+C:\Users\Arpit\Downloads\ta-2015-11-13\ta\obj\Debug\BasicPage1.g.cs
+C:\Users\Arpit\Downloads\ta-2015-11-13\ta\obj\Debug\BasicPage2.g.i.cs
+C:\Users\Arpit\Downloads\ta-2015-11-13\ta\obj\Debug\BasicPage2.g.cs
+C:\Users\Arpit\Downloads\ta-2015-11-13\ta\obj\Debug\BasicPage3.g.i.cs
+C:\Users\Arpit\Downloads\ta-2015-11-13\ta\obj\Debug\BasicPage3.g.cs
+C:\Users\Arpit\Downloads\ta-2015-11-13\ta\obj\Debug\BasicPage4.g.i.cs
+C:\Users\Arpit\Downloads\ta-2015-11-13\ta\obj\Debug\BasicPage4.g.cs
+C:\Users\Arpit\Downloads\ta-2015-11-13\ta\obj\Debug\BasicPage5.g.i.cs
+C:\Users\Arpit\Downloads\ta-2015-11-13\ta\obj\Debug\BasicPage5.g.cs
+C:\Users\Arpit\Downloads\ta-2015-11-13\ta\obj\Debug\BasicPage6.g.i.cs
+C:\Users\Arpit\Downloads\ta-2015-11-13\ta\obj\Debug\BasicPage6.g.cs
+C:\Users\Arpit\Downloads\ta-2015-11-13\ta\obj\Debug\BlankPage1.g.i.cs
+C:\Users\Arpit\Downloads\ta-2015-11-13\ta\obj\Debug\BlankPage1.g.cs
+C:\Users\Arpit\Downloads\ta-2015-11-13\ta\obj\Debug\BlankPage3.g.i.cs
+C:\Users\Arpit\Downloads\ta-2015-11-13\ta\obj\Debug\BlankPage3.g.cs
+C:\Users\Arpit\Downloads\ta-2015-11-13\ta\obj\Debug\BlankPage5.g.i.cs
+C:\Users\Arpit\Downloads\ta-2015-11-13\ta\obj\Debug\BlankPage5.g.cs
+C:\Users\Arpit\Downloads\ta-2015-11-13\ta\obj\Debug\BlankPage6.g.i.cs
+C:\Users\Arpit\Downloads\ta-2015-11-13\ta\obj\Debug\BlankPage6.g.cs
+C:\Users\Arpit\Downloads\ta-2015-11-13\ta\obj\Debug\BlankPage7.g.i.cs
+C:\Users\Arpit\Downloads\ta-2015-11-13\ta\obj\Debug\BlankPage7.g.cs
+C:\Users\Arpit\Downloads\ta-2015-11-13\ta\obj\Debug\Common\StandardStyles.g.i.cs
+C:\Users\Arpit\Downloads\ta-2015-11-13\ta\obj\Debug\Common\StandardStyles.g.cs
+C:\Users\Arpit\Downloads\ta-2015-11-13\ta\obj\Debug\MainPage.g.i.cs
+C:\Users\Arpit\Downloads\ta-2015-11-13\ta\obj\Debug\MainPage.g.cs
+C:\Users\Arpit\Downloads\ta-2015-11-13\ta\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\Arpit\Downloads\ta-2015-11-13\ta\obj\Debug\App.xaml
+C:\Users\Arpit\Downloads\ta-2015-11-13\ta\obj\Debug\BasicPage1.xaml
+C:\Users\Arpit\Downloads\ta-2015-11-13\ta\obj\Debug\BasicPage2.xaml
+C:\Users\Arpit\Downloads\ta-2015-11-13\ta\obj\Debug\BasicPage3.xaml
+C:\Users\Arpit\Downloads\ta-2015-11-13\ta\obj\Debug\BasicPage4.xaml
+C:\Users\Arpit\Downloads\ta-2015-11-13\ta\obj\Debug\BasicPage5.xaml
+C:\Users\Arpit\Downloads\ta-2015-11-13\ta\obj\Debug\BasicPage6.xaml
+C:\Users\Arpit\Downloads\ta-2015-11-13\ta\obj\Debug\BlankPage1.xaml
+C:\Users\Arpit\Downloads\ta-2015-11-13\ta\obj\Debug\BlankPage3.xaml
+C:\Users\Arpit\Downloads\ta-2015-11-13\ta\obj\Debug\BlankPage5.xaml
+C:\Users\Arpit\Downloads\ta-2015-11-13\ta\obj\Debug\BlankPage6.xaml
+C:\Users\Arpit\Downloads\ta-2015-11-13\ta\obj\Debug\BlankPage7.xaml
+C:\Users\Arpit\Downloads\ta-2015-11-13\ta\obj\Debug\Common\StandardStyles.xaml
+C:\Users\Arpit\Downloads\ta-2015-11-13\ta\obj\Debug\MainPage.xaml
+C:\Users\Arpit\Downloads\ta-2015-11-13\ta\obj\Debug\App.xbf
+C:\Users\Arpit\Downloads\ta-2015-11-13\ta\obj\Debug\BasicPage1.xbf
+C:\Users\Arpit\Downloads\ta-2015-11-13\ta\obj\Debug\BasicPage2.xbf
+C:\Users\Arpit\Downloads\ta-2015-11-13\ta\obj\Debug\BasicPage3.xbf
+C:\Users\Arpit\Downloads\ta-2015-11-13\ta\obj\Debug\BasicPage4.xbf
+C:\Users\Arpit\Downloads\ta-2015-11-13\ta\obj\Debug\BasicPage5.xbf
+C:\Users\Arpit\Downloads\ta-2015-11-13\ta\obj\Debug\BasicPage6.xbf
+C:\Users\Arpit\Downloads\ta-2015-11-13\ta\obj\Debug\BlankPage1.xbf
+C:\Users\Arpit\Downloads\ta-2015-11-13\ta\obj\Debug\BlankPage3.xbf
+C:\Users\Arpit\Downloads\ta-2015-11-13\ta\obj\Debug\BlankPage5.xbf
+C:\Users\Arpit\Downloads\ta-2015-11-13\ta\obj\Debug\BlankPage6.xbf
+C:\Users\Arpit\Downloads\ta-2015-11-13\ta\obj\Debug\BlankPage7.xbf
+C:\Users\Arpit\Downloads\ta-2015-11-13\ta\obj\Debug\Common\StandardStyles.xbf
+C:\Users\Arpit\Downloads\ta-2015-11-13\ta\obj\Debug\MainPage.xbf
+C:\Users\Arpit\Downloads\ta-2015-11-13\ta\obj\Debug\XamlSaveStateFile.xml
+C:\Users\Arpit\Downloads\ta-2015-11-13\ta\obj\Debug\App9.exe
+C:\Users\Arpit\Downloads\ta-2015-11-13\ta\obj\Debug\App9.pdb
+C:\Users\Arpit\Downloads\ta-2015-11-13\ta\obj\Debug\priconfig.xml
+C:\Users\Arpit\Downloads\ta-2015-11-13\ta\obj\Debug\priconfig.xml.intermediate
+C:\Users\Arpit\Downloads\ta-2015-11-13\ta\obj\Debug\layout.resfiles
+C:\Users\Arpit\Downloads\ta-2015-11-13\ta\obj\Debug\layout.resfiles.intermediate
+C:\Users\Arpit\Downloads\ta-2015-11-13\ta\obj\Debug\resources.resfiles
+C:\Users\Arpit\Downloads\ta-2015-11-13\ta\obj\Debug\resources.resfiles.intermediate
+C:\Users\Arpit\Downloads\ta-2015-11-13\ta\obj\Debug\pri.resfiles
+C:\Users\Arpit\Downloads\ta-2015-11-13\ta\obj\Debug\pri.resfiles.intermediate
+C:\Users\Arpit\Downloads\ta-2015-11-13\ta\obj\Debug\qualifiers.txt
+C:\Users\Arpit\Downloads\ta-2015-11-13\ta\obj\Debug\qualifiers.txt.intermediate
+C:\Users\Arpit\Downloads\ta-2015-11-13\ta\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Arpit\Downloads\ta-2015-11-13\ta\obj\Debug\ProjectArchitectures.txt
